@@ -5,19 +5,23 @@ Nesse contexto, buscamos entregar uma aplicação acessível, dar visibilidade a
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/0a14e27f-fdf4-45ed-ae2b-cc84385d97ee)
+Meu nome é João Carlos, tenho 75 anos. Trabalhei como caminhoneiro e agora, aposentado, passo boa parte do meu tempo em aplicativos de mensagem e redes sociais. Participo de grupos e páginas online onde envio e recebo muitas notícias, mas meus filhos vêm me alertando sobre estes conteúdos, que nem sempre seriam confiáveis. Não confio mais nos jornais dos grandes meios de comunicação, mas gostaria de encontrar um canal independente e imparcial que indicasse se as notícias que recebo são verdadeiras.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/ccdf3377-9962-4e2c-8187-fec8bc34b58d)
+Meu nome é Maria Auxiliadora, tenho 68 anos. Sou decoradora aposentada e tenho pouca intimidade com redes sociais e novas tecnologias. Recentemente uma amiga foi vítima do golpe do falso boleto bancário, e por isto hoje eu tenho medo de aderir a novidades como o PIX e acabar sendo vítima de um golpe também. Procuro um meio para me informar sobre os golpes que vêm sendo aplicados, como identificá-los e evitá-los, bem como orientações para aprender a utilizar as inovações e tecnologias novas de maneira segura. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/31dfef97-1a8a-4177-8cd0-8ccd197fe119)
+Meu nome é Célia, tenho 64 anos. Sou psicóloga aposentada e sempre gostei de me manter informada pelos principais canais de comunicação. Atualmente, utilizando mais os aplicativos de mensagem para me comunicar, tenho me deparado com notícias duvidosas vindas de amigos e parentes. Procuro uma página que esclareça as notícias falsas que tenho lido e que indique as fontes seguras de pesquisa e informação. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/718d4d80-1b2c-422b-a4e4-9b7ad76feb19)
+Meu nome é Beatriz, tenho 46 anos. Sou formada em Fonoaudiologia, mas deixei de exercer a profissão para me dedicar integralmente aos cuidados dos meus dois filhos. Sempre me preocupei muito com a alimentação e saúde, minhas e da minha família. Tento me manter sempre a par das novidades sobre alimentação natural, tratamentos e medicamentos, mas tenho muito medo do que leio sobre vacinas e alimentos considerados nocivos para a nossa saúde. Com a pandemia do COVID-19, fiquei ainda mais preocupada e com dificuldade de confiar na segurança das vacinas, em virtude das diferentes informações que lia sobre isto.  Gostaria de encontrar uma página com linguagem simplificada que explicasse quais notícias sobre saúde e alimentação são verdadeiras e indicasse canais de confiança sobre informações científicas acessíveis. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/194e0c75-c23a-4046-9fa6-05048711ada2)
+Meu nome é Alessandra, tenho 37 anos. Sou bancária e, com a rotina de trabalho, acabo visitando meus pais apenas aos fins de semana, momento em que eles compartilham comigo o que viram e viveram ao longo da semana. Venho percebendo que eles se influenciam muito pelas notícias que leem nos grupos online e não confiam nos meios de comunicação tradicionais, o que acaba por confundi-los e desinformá-los, além de deixá-los ansiosos. Apesar disto, eles demonstram muita confiança no que eu digo, por isto gostaria de encontrar uma página segura e com referências, que reunisse as principais notícias da semana, identificando, contextualizando e esclarecendo as notícias falsas, para que eu possa obter as informações necessárias para esclarecer as dúvidas dos meus pais. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/f10e4fa3-9327-4ee7-8cfa-524c1db35fa9)
+Meu nome é Carlos Eduardo, tenho 17 anos. Sou estudante do ensino médio e poderia ter votado pela primeira vez nas eleições de 2022. Costumo me informar a partir das redes sociais e não tenho o hábito de acessar revistas, jornais de grande circulação ou noticiários da televisão. Ao longo das últimas eleições senti muita ansiedade com as notícias que lia sobre todos os lados políticos e não sabia em quais notícias devia acreditar, por isto acabei deixando de votar. Para as próximas eleições quero encontrar uma fonte segura que esclareça quais notícias são confiáveis e verdadeiras para que eu possa escolher meus candidatos de maneira mais consciente e não influenciado por notícias falsas. 
 
 ## Histórias de Usuários
 
