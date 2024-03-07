@@ -47,7 +47,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| 
 |RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
 |RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-
+|RF-003| A aplicação deve conter uma ferramenta de busca por palavra-chave | ALTA |
+|RF-004| A aplicação deve conter uma página de glossário. | MÉDIA | 
+|RF-005| A deve permitir a possibilidade de inserir links de redirecionamento e vídeos externos | ALTA |
+|RF-006| A aplicação deve conter a página “Real ou falso?”para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil | ALTA |
+|RF-007| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais | ALTA | 
 
 ### Requisitos não Funcionais
 
