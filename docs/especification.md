@@ -1,8 +1,6 @@
 # Especificações do Projeto 
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
+Diante da ampla disseminação de desinformação na internet e avanços tecnológicos, nossa aplicação web tem como propósito conscientizar e fornecer apoio a população vulnerável com foco para idosos, sobre golpes digitais e desinformação online provenientes de notícias e sites falsos. 
 
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
