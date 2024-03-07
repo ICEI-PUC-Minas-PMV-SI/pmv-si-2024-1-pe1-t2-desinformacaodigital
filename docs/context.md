@@ -1,12 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+Nos dias de hoje, o analfabetismo e a vulnerabilidade à desinformação online, especialmente entre os idosos, representam desafios significativos. Diante da rápida evolução tecnológica, muitos indivíduos ficam para trás, incapazes de acompanhar as mudanças ou de acessar educação digital adequada. Este problema é agravado pela disseminação de fake news, minando a confiança nas fontes de informação. O objetivo do site é desenvolver uma ferramenta digital educativa e acessível para capacitar os idosos e outros grupos vulneráveis a navegar com segurança no ambiente digital, identificar e combater a desinformação online. Além de proteger os indivíduos contra fraudes e manipulação online.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Com o avanço tecnológico, o analfabetismo digital emerge como uma preocupação crescente em diversos segmentos da sociedade. Este fenômeno, que se refere à falta de habilidades básicas necessárias para utilizar eficazmente as tecnologias digitais, representa uma barreira significativa para a inclusão digital e o pleno acesso aos recursos e oportunidades oferecidos pela era digital.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Esse esforço contribuirá para promover uma sociedade mais informada, engajada e resiliente, construindo uma base sólida para a participação cívil e progredindo socialmente e economicamente.
 
 ## Problema
 
