@@ -45,25 +45,32 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001 | A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002 | A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-|RF-003 | A aplicação deve conter uma ferramenta de busca por palavra-chave | ALTA |
+|RF-001 | A aplicação deve permitir que o usuário gerencie suas tarefas. | ALTA |  
+|RF-002 | A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês.   | MÉDIA | 
+|RF-003 | A aplicação deve conter uma ferramenta de busca por palavra-chave. | ALTA |
 |RF-004 | A aplicação deve conter uma página de glossário. | MÉDIA | 
-|RF-005 | A deve permitir a possibilidade de inserir links de redirecionamento e vídeos externos | ALTA |
-|RF-006 | A aplicação deve conter a página “Real ou falso?”para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil | ALTA |
-|RF-007 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais | ALTA | 
+|RF-005 | A deve permitir a possibilidade de inserir links de redirecionamento e vídeos externos. | ALTA |
+|RF-006 | A aplicação deve conter a página “Real ou falso?”para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | ALTA |
+|RF-007 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | ALTA | 
+|RF-008 | A aplicação deve disponibilizar a página “Depoimentos” na qual o usuário poderá inserir e visualizar depoimentos por meio de um comentário. | ALTA | 
+|RF-009 | A aplicação deve apresentar um campo de respostas para responder o comentário.  | ALTA | 
+|RF-010 | Deve haver uma janela para inserir seu nome e a idade opcional para que possa comentar sem necessidade de login. | ALTA |
+|RF-011 | A aplicação deve conter a página “Como identificar um golpe”.  | ALTA | 
+|RF-012 | A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Lupa e leitor de tela. | ALTA | 
+|RF-013 | A aplicação deve conter a página “Ajuda” para apoio e dicas de o que fazer em caso de golpe digital e acessar instituições de apoio. | ALTA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| A aplicação deve ser responsiva e adaptável a qualquer interface | Prioridade: ALTA 
-|RNF-004| A aplicação deve ter boa usabilidade | Prioridade: ALTA 
-|RNF-005|
-|RNF-006|
-|RNF-007|
+|RNF-001| A aplicação deve ser responsiva. | MÉDIA | 
+|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s. |  BAIXA | 
+|RNF-003| A aplicação deve ser responsiva e adaptável a qualquer interface. | ALTA |
+|RNF-004| A aplicação deve ter boa usabilidade. | ALTA |
+|RNF-005| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
+
+
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
