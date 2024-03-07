@@ -59,9 +59,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
+|RNF-003| A aplicação deve ser responsiva e adaptável a qualquer interface | Prioridade: ALTA 
+|RNF-004| A aplicação deve ter boa usabilidade | Prioridade: ALTA 
+|RNF-005|
+|RNF-006|
+|RNF-007|
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
  correspondem a uma funcionalidade que deve estar presente na
