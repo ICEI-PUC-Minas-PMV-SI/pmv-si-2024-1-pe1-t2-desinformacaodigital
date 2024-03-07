@@ -1,8 +1,7 @@
 # Especificações do Projeto 
 
 Diante da ampla disseminação de desinformação na internet e avanços tecnológicos, nossa aplicação web tem como propósito conscientizar e fornecer apoio a população vulnerável com foco para idosos, sobre golpes digitais e desinformação online provenientes de notícias e sites falsos. 
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
+Nesse contexto, buscamos entregar uma aplicação acessível, dar visibilidade as principais causas do analfabetismo digital, analisar os padrões de desinformação online e desenvolver estratégias eficazes para a inclusão da terceira idade no meio digital. 
 
 ## Personas
 
