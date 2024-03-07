@@ -21,12 +21,23 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O combate à desinformação digital direcionada aos idosos é crucial para garantir que essa população vulnerável tenha acesso a informações confiáveis e não seja prejudicada por notícias falsas. Aqui estão algumas metas importantes para abordar esse problema:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+1. Educação Digital: Promover programas de alfabetização digital específicos para idosos, ensinando-os a discernir entre fontes confiáveis e enganosas. Isso inclui identificar sinais de desinformação, como títulos sensacionalistas ou informações não verificadas.
+
+2. Conscientização: Criar campanhas de conscientização sobre os riscos da desinformação digital. Os idosos devem estar cientes dos perigos das notícias falsas e do compartilhamento irresponsável de informações.
+
+3. Apoio Comunitário: Estabelecer redes de apoio comunitário para os idosos, onde possam discutir e verificar informações com seus pares. Isso pode incluir grupos de discussão on-line ou presenciais.
+
+4. Colaboração com Plataformas Digitais: Trabalhar em conjunto com empresas de tecnologia e redes sociais para desenvolver ferramentas que identifiquem e combatam a desinformação. Isso pode incluir alertas de notícias falsas ou recursos de verificação de fatos.
+
+5. Legislação Adequada: Pressionar por regulamentações que responsabilizem as plataformas digitais por disseminar desinformação. Isso pode envolver multas ou outras medidas para garantir que as empresas ajam de maneira ética.
+
+6. Inclusão Digital: Garantir que os idosos tenham acesso fácil à tecnologia e à internet. Isso inclui treinamento para uso seguro e responsável da web.
+
+7. Empoderamento: Capacitar os idosos a se tornarem defensores da verdade e a compartilhar informações corretas com suas redes sociais e familiares.
+
+Lembrando que a desinformação digital é um problema que afeta a todos, independentemente da idade, mas é especialmente importante proteger os idosos, que podem ser mais suscetíveis a acreditar em informações enganosas.
 
 ## Justificativa
 
