@@ -53,8 +53,11 @@ Um exemplo é o golpe do empréstimo consignado, no qual os criminosos realizam 
 Fontes:
 
 G1 Jornal Nacional: Número de golpes contra pessoas idosas cresce mais de 70% em 2023
+
 Canaltech: Alerta para os mais velhos: veja os golpes mais aplicados contra os idosos
+
 Universal.org: Cresce em 70% o número de golpes virtuais contra idosos
+
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
