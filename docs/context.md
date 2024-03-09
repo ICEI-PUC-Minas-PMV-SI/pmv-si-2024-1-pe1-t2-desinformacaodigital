@@ -41,15 +41,20 @@ Lembrando que a desinformação digital é um problema que afeta a todos, indepe
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A longa história das notícias falsas
+Utilização política das mentiras começou muito antes das redes sociais, e a construção de outras realidades era uma constante na Grécia antiga, A primeira vítima da guerra é a verdade, afirma um velho ditado jornalístico. Embora o mais correto fosse dizer que a verdade é vítima recorrente em qualquer sociedade organizada, porque a mentira política é uma arte tão velha quanto a civilização. Mas no dia-a-dia o assunto é bem diferente: há coisas que aconteceram, e outras que não; mas os fatos, reais ou inventados, influenciam a nossa percepção e opinião.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
+Desde a Antiguidade, verdade e mentira se misturaram muitíssimas vezes, e essas realidades falsas influenciaram nosso presente. Assim já escreveu o grande historiador francês Paul Veyne em seu ensaio Os Gregos Acreditavam em Seus Mitos? (Unesp): “Os homens não encontram a verdade, a constroem, como constroem sua história”. Chegados a este ponto, convém fazer uma distinção entre notícias falsas e propaganda: ambas crescem e se multiplicam no mesmo ecossistema, mas não são exatamente iguais. A propaganda procura convencer, ser eficaz, e para isso pode recorrer a todo tipo de instrumento, da arte e do cinema aos pasquins e redes sociais. As notícias falsas, um dos ramos da propaganda, são diferentes: procuram enganar, criar outra realidade.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Os mais prejudicado sao os idosos, Dados oficiais do governo mostram que o número de golpes contra pessoas idosas cresceu mais de 70% no Brasil em 2023, em comparação com o ano anterior. Esses golpes frequentemente envolvem violência financeira ou material contra os idosos. Vítimas relatam situações em que os criminosos se passam por funcionários de bancos ou empresas conhecidas, obtendo informações pessoais e causando prejuízos significativos.
+Um exemplo é o golpe do empréstimo consignado, no qual os criminosos realizam empréstimos usando dados roubados e solicitam fotos para validar a transação. Além disso, há o golpe da falsa central de atendimento, onde os bandidos confirmam dados pessoais e o golpe da validação de dados, em que o cliente é induzido a fornecer informações pessoais para acessar senhas e realizar operações financeiras.
+É essencial que todos estejamos cientes desses riscos e tomemos medidas para proteger nossos idosos. A educação sobre desinformação online e a conscientização sobre os tipos de golpes são fundamentais para prevenir danos financeiros e garantir a segurança dos mais velhos.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Fontes:
 
+G1 Jornal Nacional: Número de golpes contra pessoas idosas cresce mais de 70% em 2023
+Canaltech: Alerta para os mais velhos: veja os golpes mais aplicados contra os idosos
+Universal.org: Cresce em 70% o número de golpes virtuais contra idosos
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
