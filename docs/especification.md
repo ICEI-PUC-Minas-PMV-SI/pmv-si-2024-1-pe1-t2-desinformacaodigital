@@ -45,10 +45,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+|João Carlos         | Encontrar meio de comunicação independente que faça a checagem de notícias| Apenas repassar informações verficadas |
+|Maria Auxiliadora   | Obter informações sobre golpes praticados e como evitá-los | Evitar ser vítima de golpes |
+|Maria Auxiliadora   | Obter informações sobre como utilizar novas tecnologias de maneira segura | Perder o recceio de utilizar as novas tecnologias | 
+|Célia               | Encontrar plataforma que esclareça e contextualize notícias falsas em circulação | Não se deixar influenciar por notícias falsas recebidas em redes sociais |
+|Célia               | Encontrar plataforma que indique fontes seguras de informação e notícias | Obter informações apenas de fontes confiáveis |
+|Beatriz             | Encontrar plataforma com linguagem simplificada e acessível que esclareça informações atuais sobre saúde | Obter esclarecimentos sobre notícias acerca de saúde e tratamentos |
+|Beatriz             | Encontrar plataforma que indique fontes confiáveis sobre saúde e ciência | Obter informações confiáveis sobre saúde e ciência|
+|Alessandra          | Encontrar plataforma que reúna de maneira resumida as principais notícias verificadas da semana | Tomar conhecimento de maneira rápida e contextualizada sobre as notícias falsas mais comentadas da semana |
+|Carlos Eduardo      | Encontrar plataforma que esclarça fatos e notícias sobre política | Obter informações verificadas sobre candidatos e eleições para melhor formação de opinião e tomada de decisões |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
