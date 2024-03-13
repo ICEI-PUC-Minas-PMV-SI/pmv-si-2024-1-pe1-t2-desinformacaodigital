@@ -60,9 +60,17 @@ Universal.org: Cresce em 70% o número de golpes virtuais contra idosos
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo é diversificado em termos de faixa etária, abrangendo desde idosos preocupados com golpes digitais e desinformação até jovens interessados em discernir notícias confiáveis. Este público busca fontes confiáveis de informação sobre saúde, tecnologia e política, bem como orientações para lidar com a crescente quantidade de desinformação online. Assim, o site visa atender às necessidades de diferentes grupos demográficos que compartilham a preocupação com a veracidade das informações e a segurança digital.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Mapa de Stakeholders - Projeto:
+
+Stakeholder Principal:
+
+Usuário Final Responasbilidades: Utilizar as informações fornecidas de maneira responsável e promover a disseminação de conhecimento confiável.
+
+O projeto inclui pessoas de diferentes idades e formações, todas buscando fontes confiáveis de informação, esclarecimento sobre desinformação e orientações para lidar com os desafios da era digital.
+
+[diagrama.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/files/14580470/Starkwolder.pdf)
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
