@@ -70,7 +70,7 @@ Usuário Final Responasbilidades: Utilizar as informações fornecidas de maneir
 
 O projeto inclui pessoas de diferentes idades e formações, todas buscando fontes confiáveis de informação, esclarecimento sobre desinformação e orientações para lidar com os desafios da era digital.
 
-[Starkwolder.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/files/14580519/Starkwolder.pdf)
+![Starkwolder](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/e0aaff0f-8d44-4723-b4f6-77578c2ee366)
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
