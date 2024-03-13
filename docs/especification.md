@@ -70,19 +70,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001 | A aplicação deve permitir que o usuário gerencie suas tarefas. | ALTA |  
-|RF-002 | A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês.   | MÉDIA | 
-|RF-003 | A aplicação deve conter uma ferramenta de busca por palavra-chave. | ALTA |
-|RF-004 | A aplicação deve conter uma página de glossário. | MÉDIA | 
-|RF-005 | A deve permitir a possibilidade de inserir links de redirecionamento e vídeos externos. | ALTA |
-|RF-006 | A aplicação deve conter a página “Real ou falso?”para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | ALTA |
-|RF-007 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | ALTA | 
-|RF-008 | A aplicação deve disponibilizar a página “Depoimentos” na qual o usuário poderá inserir e visualizar depoimentos por meio de um comentário. | ALTA | 
-|RF-009 | A aplicação deve apresentar um campo de respostas para responder o comentário.  | ALTA | 
-|RF-010 | Deve haver uma janela para inserir seu nome e a idade opcional para que possa comentar sem necessidade de login. | ALTA |
-|RF-011 | A aplicação deve conter a página “Como identificar um golpe”.  | ALTA | 
-|RF-012 | A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Lupa e leitor de tela. | ALTA | 
-|RF-013 | A aplicação deve conter a página “Ajuda” para apoio e dicas de o que fazer em caso de golpe digital e acessar instituições de apoio. | ALTA |
+|RF-001 | A aplicação deve conter uma página inicial para apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. | Prioridade: ALTA  
+|RF-002 | A aplicação deve conter uma página de glossário onde o usuário poderá encontrar as definições de palavras mais usadas em um contexto digital. | Prioridade: ALTA    
+|RF-003 | A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” | Prioridade: ALTA 
+|RF-004 | A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil | Prioridade: ALTA 
+|RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.
+|RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário informará seu nome e poderá inserir e visualizar depoimentos por meio de um comentário. Além disso, ele poderá apagar ou editar o seu depoimento e responder outro usuário.| Prioridade: ALTA   
+|RF-007 | A aplicação deve conter a página “passeio tecnológico” a qual haverá três fases em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | Prioridade: ALTA   
+|RF-008 |
+|RF-009 |
+|RF-010 | 
+|RF-011 | 
+|RF-012 |
+|RF-013 | 
 
 
 ### Requisitos não Funcionais
