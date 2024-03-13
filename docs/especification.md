@@ -74,7 +74,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002 | A aplicação deve conter uma página de glossário onde o usuário poderá encontrar as definições de palavras mais usadas em um contexto digital. | Prioridade: ALTA    
 |RF-003 | A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” | Prioridade: ALTA 
 |RF-004 | A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil | Prioridade: ALTA 
-|RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.
+|RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | Prioridade: ALTA 
 |RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário informará seu nome e poderá inserir e visualizar depoimentos por meio de um comentário. Além disso, ele poderá apagar ou editar o seu depoimento e responder outro usuário.| Prioridade: ALTA   
 |RF-007 | A aplicação deve conter a página “passeio tecnológico” a qual haverá três fases em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | Prioridade: ALTA   
 |RF-008 |
@@ -94,7 +94,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| A aplicação deve ser responsiva e adaptável a qualquer interface. | ALTA |
 |RNF-004| A aplicação deve ter boa usabilidade. | ALTA |
 |RNF-005| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
-
+|RNF-006| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Lupa, leitor de tela e áudio com pronúncia em duas línguas) | ALTA |
+|RNF-007| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 - [Requisitos Funcionais
