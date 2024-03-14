@@ -60,17 +60,9 @@ Universal.org: Cresce em 70% o número de golpes virtuais contra idosos
 
 ## Público-Alvo
 
-O público-alvo é diversificado em termos de faixa etária, abrangendo desde idosos preocupados com golpes digitais e desinformação até jovens interessados em discernir notícias confiáveis. Este público busca fontes confiáveis de informação sobre saúde, tecnologia e política, bem como orientações para lidar com a crescente quantidade de desinformação online. Assim, o site visa atender às necessidades de diferentes grupos demográficos que compartilham a preocupação com a veracidade das informações e a segurança digital.
+O público-alvo abrange uma ampla massa de indivíduos de diversas áreas e idade, no qual possuem variados graus de familiaridade com a tecnologia e mídia digital. Compartilham preocupações sobre autenticidade de informações, segurança online, direitos previdenciários e acesso inclusivo à tecnologia. Estão em busca de orientações confiáveis, recursos práticos e plataformas seguras para navegar no mundo digital de forma eficaz e tranquila.
 
-Mapa de Stakeholders - Projeto:
-
-Stakeholder Principal:
-
-Usuário Final Responasbilidades: Utilizar as informações fornecidas de maneira responsável e promover a disseminação de conhecimento confiável.
-
-O projeto inclui pessoas de diferentes idades e formações, todas buscando fontes confiáveis de informação, esclarecimento sobre desinformação e orientações para lidar com os desafios da era digital.
-
-![Starkwolder](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/e0aaff0f-8d44-4723-b4f6-77578c2ee366)
+![Starkwolder (1)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/6dbe59ee-b919-47bd-a96d-1fe85029c834)
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
