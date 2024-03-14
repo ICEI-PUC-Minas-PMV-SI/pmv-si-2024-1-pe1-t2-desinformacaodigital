@@ -7,7 +7,7 @@ Nesse contexto, buscamos entregar uma aplicação acessível, dar visibilidade a
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/0a14e27f-fdf4-45ed-ae2b-cc84385d97ee)
 
-Meu nome é João Carlos, tenho 75 anos. Trabalhei como caminhoneiro e agora, aposentado, passo boa parte do meu tempo em aplicativos de mensagem e redes sociais. Participo de grupos e páginas online onde envio e recebo muitas notícias, mas meus filhos vêm me alertando sobre estes conteúdos, que nem sempre seriam confiáveis. Não confio mais nos jornais dos grandes meios de comunicação, mas gostaria de encontrar um canal independente e imparcial que indicasse se as notícias que recebo são verdadeiras.
+Meu nome é João Carlos, tenho 52 anos. Sou professor de matemática do ensino médio e costumo receber muitas notícias em aplicativos de mensagem e redes sociais das quais participo. Apesar de ter certa familiaridade com tecnologias e meios de comunicação, as notícias que recebo por mensagem acabam me impactando e gerando inquietação. Por isto, gostaria de encontrar um canal independente e imparcial que indicasse se as notícias que recebo são verdadeiras.
 
 
 
@@ -19,7 +19,7 @@ Meu nome é Maria Auxiliadora, tenho 68 anos. Sou decoradora aposentada e tenho 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/31dfef97-1a8a-4177-8cd0-8ccd197fe119)
 
-Meu nome é Célia, tenho 64 anos. Sou psicóloga aposentada e sempre gostei de me manter informada pelos principais canais de comunicação. Atualmente, utilizando mais os aplicativos de mensagem para me comunicar, tenho me deparado com notícias duvidosas vindas de amigos e parentes. Procuro uma página que esclareça as notícias falsas que tenho lido e que indique as fontes seguras de pesquisa e informação. 
+Meu nome é Célia, tenho 64 anos. Sou psicóloga aposentada e sempre gostei de utilizar as facilidades que a tecnologia traz. Porém, diante da sofisticação dos golpes que vêm sendo praticados na internet, tenho me sentido insegura para realizar compras online com cartão de crédito. A título de exemplo, recentemente encontrei um livro de psicologia em uma loja virtual por um preço muito mais acessível do que em lojas físicas, mas tive receio de adquirir pois tinha que inserir meus dados bancários no site. Gostaria de encontrar uma plataforma que me auxiliasse a identificar a confiabilidade de lojas virtuais e a evitar sites suspeitos. 
 
 
 
