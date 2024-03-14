@@ -35,9 +35,10 @@ Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa 
 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/f10e4fa3-9327-4ee7-8cfa-524c1db35fa9)
 
-Meu nome é Carlos Eduardo, tenho 17 anos. Sou estudante do ensino médio e poderia ter votado pela primeira vez nas eleições de 2022. Costumo me informar a partir das redes sociais e não tenho o hábito de acessar revistas, jornais de grande circulação ou noticiários da televisão. Ao longo das últimas eleições senti muita ansiedade com as notícias que lia sobre todos os lados políticos e não sabia em quais notícias devia acreditar, por isto acabei deixando de votar. Para as próximas eleições quero encontrar uma fonte segura que esclareça quais notícias são confiáveis e verdadeiras para que eu possa escolher meus candidatos de maneira mais consciente e não influenciado por notícias falsas. 
+![José Honorino](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/11e10a02-a497-4d9d-9451-4cb1dc895af9)
+
+Meu nome é José Honorino, tenho 62 anos. Sou agricultor e moro na zona rural de Manga/MG, onde nasci e me criei. A conexão à internet chegou há bem pouco tempo aqui onde eu moro, e por isto meu acesso à informação acabou sendo muito limitado até então. Com o trabalho pesado no campo, acabei tendo pouco contato com aparelhos eletrônicos, mas agora com a chegada da internet, gostaria de adquirir um computador e encontrar um local com linguagem simples e imagens educativas que me ensinem a usar essas tecnologias e a resolver pequenos problemas que eu possa ter com o meu computador. 
 
 ## Histórias de Usuários
 
