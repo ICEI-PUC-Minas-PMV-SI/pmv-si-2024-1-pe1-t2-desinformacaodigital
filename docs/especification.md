@@ -70,18 +70,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001 | A aplicação deve conter uma página inicial para apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. | ALTA  
-|RF-002 | A aplicação deve conter uma página de glossário onde o usuário poderá encontrar as definições de palavras mais usadas em um contexto digital. | ALTA    
-|RF-003 | A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” | ALTA 
-|RF-004 | A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | ALTA 
-|RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | ALTA 
+|RF-001 | A aplicação deve conter uma página inicial para apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. | ALTA |
+|RF-002 | A aplicação deve conter uma página de glossário onde o usuário poderá encontrar as definições de palavras mais usadas em um contexto digital. | ALTA |   
+|RF-003 | A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” | ALTA | 
+|RF-004 | A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | ALTA | 
+|RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | ALTA | 
 |RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário informará seu nome e poderá inserir e visualizar depoimentos por meio de um comentário. Além disso, ele poderá apagar ou editar o seu depoimento e responder outro usuário.| ALTA   
-|RF-007 |A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | ALTA   
-|RF-008 | A aplicação deve fornecer um feedback para ações do usuário como confirmações de envio e mensagens de erro. | ALTA
-|RF-009 | A aplicação deve conter uma barra de pesquisa onde serão listados interesses pré-definidos com base no público-alvo. | ALTA
-|RF-010 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA
-|RF-011 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA
-|RF-012 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?” o qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar com contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA
+|RF-007 |A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | ALTA |  
+|RF-008 | A aplicação deve conter uma barra de pesquisa onde serão listados interesses pré-definidos com base no público-alvo. | ALTA |
+|RF-009 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA |
+|RF-010 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
+|RF-011 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?” o qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar com contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -95,6 +94,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
 |RNF-006| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Lupa, leitor de tela e áudio com pronúncia em duas línguas). | ALTA |
 |RNF-007| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados. | ALTA |
+|RNF-008| a aplicação deve apresentar um feedback para ações do usuário como confirmações de envio e mensagens de erro | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 - [Requisitos Funcionais
