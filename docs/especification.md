@@ -46,15 +46,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|João Carlos         | Encontrar meio de comunicação independente que faça a checagem de notícias| Apenas repassar informações verficadas |
+|João Carlos         | Encontrar um canal que esclareça as notícias falsas em circulação | Esclarecer as notícias que recebe em aplicativos de mensagem e redes sociais |
 |Maria Auxiliadora   | Obter informações sobre golpes praticados e como evitá-los | Evitar ser vítima de golpes |
 |Maria Auxiliadora   | Obter informações sobre como utilizar novas tecnologias de maneira segura | Perder o recceio de utilizar as novas tecnologias | 
-|Célia               | Encontrar plataforma que esclareça e contextualize notícias falsas em circulação | Não se deixar influenciar por notícias falsas recebidas em redes sociais |
-|Célia               | Encontrar plataforma que indique fontes seguras de informação e notícias | Obter informações apenas de fontes confiáveis |
-|Beatriz             | Encontrar plataforma com linguagem simplificada e acessível que esclareça informações atuais sobre saúde | Obter esclarecimentos sobre notícias acerca de saúde e tratamentos |
-|Beatriz             | Encontrar plataforma que indique fontes confiáveis sobre saúde e ciência | Obter informações confiáveis sobre saúde e ciência|
-|Alessandra          | Encontrar plataforma que reúna de maneira resumida as principais notícias verificadas da semana | Tomar conhecimento de maneira rápida e contextualizada sobre as notícias falsas mais comentadas da semana |
-|Carlos Eduardo      | Encontrar plataforma que esclarça fatos e notícias sobre política | Obter informações verificadas sobre candidatos e eleições para melhor formação de opinião e tomada de decisões |
+|Célia               | Encontrar plataforma que ajude a identificar a confiabilidade de lojas virtuais | Perder o receio de realizar compras online utilizando o cartão de crédito |
+|Beatriz             | Encontrar plataforma que reúna informações sobre leis, direitos e instituições de apoio à obtenção de aposentadoria | Obter informações a partir de meios seguros, evitando golpes e pessoas mal intecionadas |
+|Alessandra          | Encontrar plataforma que traga esclarecimentos sobre notícias falsas, utilizando recursos inclusivos para quem possui baixa acuidade visual | Indicar a plataforma para sua mãe, que é acometida por baixa acuidade visual e busca autonomia em suas pesquisas |
+|José Honorino      | Encontrar plataforma instrucional com boa usabilidade e linguagem simples | Aprender a utilizar o computador e a internet, bem como a resolver pequenos problemas que possam surgir durante o uso |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
