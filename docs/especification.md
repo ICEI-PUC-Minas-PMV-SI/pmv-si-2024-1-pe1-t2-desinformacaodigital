@@ -36,7 +36,7 @@ Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa 
 
 
 
-![José Honorino](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/11e10a02-a497-4d9d-9451-4cb1dc895af9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/db51603f-069f-421e-b880-3903a011276f)
 
 Meu nome é José Honorino, tenho 62 anos. Sou agricultor e moro na zona rural de Manga/MG, onde nasci e me criei. A conexão à internet chegou há bem pouco tempo aqui onde eu moro, e por isto meu acesso à informação acabou sendo muito limitado até então. Com o trabalho pesado no campo, acabei tendo pouco contato com aparelhos eletrônicos, mas agora com a chegada da internet, gostaria de adquirir um computador e encontrar um local com linguagem simples e imagens educativas que me ensinem a usar essas tecnologias e a resolver pequenos problemas que eu possa ter com o meu computador. 
 
