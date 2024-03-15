@@ -83,20 +83,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-012 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA |
 |RF-013 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
 |RF-014 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?” o qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar com contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
-
+|RF-015 | A aplicação deve conter a ferramenta de lupa para aumentar ou diminuir o zoom do site. | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva. | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s. |  BAIXA | 
-|RNF-003| A aplicação deve ser responsiva e adaptável a qualquer interface. | ALTA |
-|RNF-004| A aplicação deve ter boa usabilidade. | ALTA |
-|RNF-005| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
-|RNF-006| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Lupa, leitor de tela e áudio com pronúncia em duas línguas). | ALTA |
-|RNF-007| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados. | ALTA |
-|RNF-008| a aplicação deve apresentar um feedback para ações do usuário como confirmações de envio e mensagens de erro | ALTA |
+|RNF-001| A aplicação deve processar requisições do usuário em no máximo 3s. |  BAIXA | 
+|RNF-002| A aplicação deve ser responsiva e adaptável a qualquer interface. | ALTA |
+|RNF-003| A aplicação deve seguir o padrão das heurísticas de Nielsen. | ALTA |
+|RNF-004| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
+|RNF-005| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Leitor de tela e áudio com pronúncia em duas línguas). | ALTA |
+|RNF-006| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados. | ALTA |
+|RNF-007| A aplicação deve apresentar um feedback para ações do usuário como confirmações de envio e mensagens de erro | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 - [Requisitos Funcionais
