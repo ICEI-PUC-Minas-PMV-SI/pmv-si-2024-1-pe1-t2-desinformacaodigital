@@ -50,7 +50,7 @@ Os mais prejudicado sao os idosos, Dados oficiais do governo mostram que o núme
 
 O público-alvo abrange uma ampla massa de indivíduos de diversas áreas e idade, no qual possuem variados graus de familiaridade com a tecnologia e mídia digital. Compartilham preocupações sobre autenticidade de informações, segurança online, direitos previdenciários e acesso inclusivo à tecnologia. Estão em busca de orientações confiáveis, recursos práticos e plataformas seguras para navegar no mundo digital de forma eficaz e tranquila.
 
-![Starkwolder (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/58f2a3fc-47e7-4289-a9c2-2cdd23f26ed5)
+![Starkwolder (3)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/3211923c-91ab-4c36-a189-37f1beacda96)
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
