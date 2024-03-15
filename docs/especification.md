@@ -23,7 +23,10 @@ Meu nome é Célia, tenho 64 anos. Sou psicóloga e sempre gostei de utilizar as
 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/718d4d80-1b2c-422b-a4e4-9b7ad76feb19)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/0b127a7f-7c3d-440b-98d8-fb4a62a7bc7b)
+
+
+
 
 Meu nome é Beatriz, tenho 46 anos. Sempre trabalhei como cuidadora de idosos, mas venho tentando obter minha aposentadoria por invalidez, uma vez que, há alguns meses, fui diagnosticada com fibromialgia. Quando recebi meu diagnóstico e comecei a buscar informações sobre a possibilidade de me aposentar, acabei sendo vítima do golpe do falso INSS ao clicar em uma propaganda digital que prometia a concessão do benefício pretendido mediante fornecimento de informações pessoais e pagamento de valores. Acredito que eu poderia ter evitado este golpe se tivesse encontrado um local seguro que me informasse sobre as leis que garantem meus direitos e indicasse instituições de apoio aos meus interesses.  
 
@@ -36,7 +39,9 @@ Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa 
 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/db51603f-069f-421e-b880-3903a011276f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/781fef63-039b-4c7c-a9f6-68a8c833f13f)
+
+
 
 Meu nome é José Honorino, tenho 62 anos. Sou agricultor e moro na zona rural de Manga/MG, onde nasci e me criei. A conexão à internet chegou há bem pouco tempo aqui onde eu moro, e por isto meu acesso à informação acabou sendo muito limitado até então. Com o trabalho pesado no campo, acabei tendo pouco contato com aparelhos eletrônicos, mas agora com a chegada da internet, gostaria de adquirir um computador e encontrar um local com linguagem simples e imagens educativas que me ensinem a usar essas tecnologias e a resolver pequenos problemas que eu possa ter com o meu computador. 
 
