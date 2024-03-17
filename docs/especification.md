@@ -1,6 +1,6 @@
 # Especificações do Projeto 
 
-Diante da ampla disseminação de desinformação na internet e avanços tecnológicos, nossa aplicação web tem como propósito conscientizar e fornecer apoio a população vulnerável com foco em idosos, conscientizando-os sobre golpes digitais e desinformação online provenientes de notícias falsas e sites duvidosos. 
+Diante dos avanços tecnológicos e da ampla disseminação de desinformação na internet, nossa aplicação web tem como propósito conscientizar e fornecer apoio à população vulnerável, com foco em idosos, conscientizando-os sobre golpes digitais e desinformação online provenientes de notícias falsas e sites duvidosos.
 Nesse contexto, buscamos entregar uma aplicação acessível que dê visibilidade às principais causas do analfabetismo digital, analisando os padrões de desinformação online e desenvolvendo estratégias eficazes para a inclusão da terceira idade no meio digital. 
 
 ## Personas
