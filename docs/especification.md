@@ -117,21 +117,21 @@ característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
-
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|03| O projeto somente pode ser desenvolvido nas linguagens HTML, CSS e Java|
-|04| O projeto deverá utilizar o framework bootstrap       |
-|05| O projeto deverá fornecer todas as instruções necessárias para o público-alvo de maneira simples e visualmente apoiadas para contribuir com o entendimento geral da aplicação|
-|06| O usuário não poderá realizar pagamentos pelo site|
-|07| Os comentários dos usuários deverão ser limitados a 200 caracteres por comentário|
-|08| A comunicação entre o usuário e os desenvolvedores deverá ocorre de forma externa à aplicação (e-mail ou telefone)|
-|09| A aplicação não deverá poder criar perfis de usuários a partir de criação de logins e senhas por estes|
+|ID| Restrição                                                                                                                |
+|--|--------------------------------------------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre.                                                                   |
+|02| Não pode ser desenvolvido um módulo de backend.                                                                          |
+|03| O projeto somente pode ser desenvolvido nas linguagens HTML, CSS e Java.                                                                          |
+|04| O projeto deverá utilizar o framework bootstrap.                                                                   |                                                                   |
+|05| O projeto deverá fornecer todas as instruções necessárias para o público-alvo de maneira simples e visualmente apoiadas para contribuir com o entendimento geral da aplicação.                                                        |
+|06| O usuário não poderá realizar pagamentos pelo site.   |
+|07| Os comentários dos usuários deverão ser limitados a 200 caracteres por comentário. |  ALTA |
+|08| A comunicação entre o usuário e os desenvolvedores deverá ocorrer de forma externa à aplicação (e-mail ou telefone).                    |
+|09| A aplicação não permitirá criar perfis de usuários "login" a partir da entrega dos dados dos usuários.                            |
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+>
