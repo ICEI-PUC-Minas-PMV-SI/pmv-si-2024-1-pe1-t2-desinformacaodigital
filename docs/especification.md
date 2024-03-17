@@ -1,7 +1,7 @@
 # Especificações do Projeto 
 
-Diante da ampla disseminação de desinformação na internet e avanços tecnológicos, nossa aplicação web tem como propósito conscientizar e fornecer apoio a população vulnerável com foco para idosos, sobre golpes digitais e desinformação online provenientes de notícias e sites falsos. 
-Nesse contexto, buscamos entregar uma aplicação acessível, dar visibilidade as principais causas do analfabetismo digital, analisar os padrões de desinformação online e desenvolver estratégias eficazes para a inclusão da terceira idade no meio digital. 
+Diante da ampla disseminação de desinformação na internet e avanços tecnológicos, nossa aplicação web tem como propósito conscientizar e fornecer apoio a população vulnerável com foco em idosos, conscientizando-os sobre golpes digitais e desinformação online provenientes de notícias falsas e sites duvidosos. 
+Nesse contexto, buscamos entregar uma aplicação acessível que dê visibilidade às principais causas do analfabetismo digital, analisando os padrões de desinformação online e desenvolvendo estratégias eficazes para a inclusão da terceira idade no meio digital. 
 
 ## Personas
 
@@ -13,7 +13,7 @@ Meu nome é João Carlos, tenho 52 anos. Sou professor de matemática do ensino 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/ccdf3377-9962-4e2c-8187-fec8bc34b58d)
 
-Meu nome é Maria Auxiliadora, tenho 68 anos. Sou decoradora aposentada e tenho pouca intimidade com redes sociais e novas tecnologias. Recentemente uma amiga foi vítima do golpe do falso boleto bancário, e por isto hoje eu tenho medo de aderir a novidades como o PIX e acabar sendo vítima de um golpe também. Procuro um meio para me informar sobre os golpes que vêm sendo aplicados, como identificá-los e evitá-los, bem como orientações para aprender a utilizar as inovações e tecnologias novas de maneira segura. 
+Meu nome é Maria Auxiliadora, tenho 68 anos. Sou decoradora aposentada e tenho pouca intimidade com redes sociais e novas tecnologias. Recentemente uma amiga foi vítima do golpe do falso boleto bancário, e por isto hoje eu tenho medo de aderir a novidades como o PIX e acabar sendo vítima de um golpe também. Procuro um meio para me informar sobre os golpes que vêm sendo aplicados, como identificá-los e evitá-los, bem como orientações para aprender a utilizar as inovações e tecnologias recentes de maneira segura. 
 
 
 
@@ -121,12 +121,16 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
-|--|-------------------------------------------------------|
+
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|03| O projeto somente pode ser desenvolvido nas linguagens HTML, CSS e Java|
+|04| O projeto deverá utilizar o framework bootstrap       |
+|05| O projeto deverá fornecer todas as instruções necessárias para o público-alvo de maneira simples e visualmente apoiadas para contribuir com o entendimento geral da aplicação|
+|06| O usuário não poderá realizar pagamentos pelo site|
+|07| Os comentários dos usuários deverão ser limitados a 200 caracteres por comentário|
+|08| A comunicação entre o usuário e os desenvolvedores deverá ocorre de forma externa à aplicação (e-mail ou telefone)|
+|09| A aplicação não deverá poder criar perfis de usuários a partir de criação de logins e senhas por estes|
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
