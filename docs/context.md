@@ -8,16 +8,8 @@ Esse esforço contribuirá para promover uma sociedade mais informada, engajada 
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Os desafios enfrentados pelas pessoas com desinformação digital, é um dos maiores problemas atuais, as pessoas acabam caindo em muitos Golpes online, Fake News, Conflitos sociais, Saúde Pública e o Analfabetismo Digital. Na maioria das vezes esse publico costuma ser os idosos, e pessoas com faixa de 45 anos pra cima, a desinformação digital ja vem afetando muitas pessoas e com isso elas acabam perdendo dinheiro, bens, tendo seu cpf usado por outras pessoas.
+Portanto é indispensável que as pessoas não tenham o conhecimento do problema que estão enfrentando no seu dia a dia, tudo hoje é movido pela internet, com isso criamos esse site para ajudar as pessoas em questão.
 
 ## Objetivos
 
@@ -57,3 +49,11 @@ O público-alvo abrange uma ampla massa de indivíduos de diversas áreas e idad
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+
+
+# Restrição 
+
+O projeto está restrito pelos itens apresentados na tabela a seguir.
+
+01|O projeto deverá ser entregue até o final do semestre. | |02|O projeto não poderá ser desenvolvido um módulo de backend. | |03|O projeto deverá fornecer todas as instruções para idosos sendo fácil de pesquisar e acessar os jogos, para contribuir com o entretenimento e resolução das tarefas.|04| O usuário não poderá realizar pagamentos |05| o usuário poderá cadastrar apenas email e telefone de contato, não podendo criar conta, realizar login<!– Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
