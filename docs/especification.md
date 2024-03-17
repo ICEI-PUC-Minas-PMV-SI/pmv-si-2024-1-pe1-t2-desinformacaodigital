@@ -53,7 +53,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |João Carlos         | Encontrar um canal que esclareça as notícias falsas em circulação | Esclarecer as notícias que recebe em aplicativos de mensagem e redes sociais |
 |Maria Auxiliadora   | Obter informações sobre golpes praticados e como evitá-los | Evitar ser vítima de golpes |
-|Maria Auxiliadora   | Obter informações sobre como utilizar novas tecnologias de maneira segura | Perder o recceio de utilizar as novas tecnologias | 
+|Maria Auxiliadora   | Obter informações sobre como utilizar novas tecnologias de maneira segura | Perder o receio de utilizar as novas tecnologias | 
 |Célia               | Encontrar plataforma que ajude a identificar a confiabilidade de lojas virtuais | Perder o receio de realizar compras online utilizando o cartão de crédito |
 |Beatriz             | Encontrar plataforma que reúna informações sobre leis, direitos e instituições de apoio à obtenção de aposentadoria | Obter informações a partir de meios seguros, evitando golpes e pessoas mal intecionadas |
 |Alessandra          | Encontrar plataforma que traga esclarecimentos sobre notícias falsas, utilizando recursos inclusivos para quem possui baixa acuidade visual | Indicar a plataforma para sua mãe, que é acometida por baixa acuidade visual e busca autonomia em suas pesquisas |
