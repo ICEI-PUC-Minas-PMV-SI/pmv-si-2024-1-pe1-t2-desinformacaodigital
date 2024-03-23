@@ -88,7 +88,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-012 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA |
 |RF-013 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
 |RF-014 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?” o qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar com contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
-|RF-015 | A aplicação deve conter a ferramenta de lupa para aumentar ou diminuir o zoom do site. | ALTA |
+|RF-015 | A aplicação deve conter a ferramenta de lupa para controlar o zoom do site. | ALTA |
 
 ### Requisitos não Funcionais
 
