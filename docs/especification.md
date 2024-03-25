@@ -34,7 +34,7 @@ Meu nome é Beatriz, tenho 46 anos. Sempre trabalhei como cuidadora de idosos, m
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/194e0c75-c23a-4046-9fa6-05048711ada2)
 
-Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa de trabalho, por isto acabo tendo pouco tempo para auxiliar minha mãe em suas demandas cotidianas. Minha mãe recorre muito a mim para saber se as notícias que recebe de suas amigas são reais ou não, uma vez que ela possui baixa acuidade visual e, por isto, acaba tendo muita dificuldade em realizar pesquisas em meios eletrônicos. Seria muito valioso se eu encontrasse uma plataforma acessível com conteúdo esclaredor sobre notícias em circulação e que possua recursos inclusivos como lupa e ferramenta de leitura em voz alta, para que eu possa indicar para minha mãe fazer suas pesquisas com maior autonomia. 
+Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa de trabalho, por isto acabo tendo pouco tempo para auxiliar minha mãe em suas demandas cotidianas. Minha mãe recorre muito a mim para tirar dúvidas sobre o uso do computador, tablet e celular, uma vez que ela gosta de aprender sobre as funcionalidades destas tecnologias, mas possui baixa acuidade visual e, por isto, acaba tendo muita dificuldade em realizar pesquisas em meios eletrônicos sozinha. Seria muito valioso se eu encontrasse uma plataforma acessível com conteúdo esclaredor sobre inovações e tecnologia e que possua recursos inclusivos como lupa e ferramenta de leitura em voz alta, para que eu possa indicar para minha mãe fazer suas pesquisas com maior autonomia. 
 
 
 
