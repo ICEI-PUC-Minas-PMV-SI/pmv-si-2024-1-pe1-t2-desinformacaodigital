@@ -89,7 +89,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-013 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
 |RF-014 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?” o qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar com contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
 |RF-015 | A aplicação deve conter a ferramenta de lupa para controlar o zoom do site. | ALTA |
-
+|RF-016 | A aplicação deve conter a página "introdução tecnológica" a qual irá conter informações breves sobre as tecnologias até os tempos de hoje, sobre o uso da internet e guias de uso do computador.
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
