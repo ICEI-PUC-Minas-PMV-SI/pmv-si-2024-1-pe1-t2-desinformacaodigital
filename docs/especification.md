@@ -82,14 +82,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. | ALTA |
 |RF-007 | A aplicação deve permitir que o usuário possa apagar ou editar o seu depoimento. | ALTA |
 |RF-008 | A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários. | ALTA |
-|RF-009 | A aplicação deve permitir que o usuário possa responder o depoimento de outros usuários. | ALTA |
-|RF-010 |A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | ALTA |  
-|RF-011 | A aplicação deve conter uma ferramenta de pesquisa onde serão listados interesses pré-definidos com base no público-alvo. | ALTA |
-|RF-012 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA |
-|RF-013 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
-|RF-014 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
-|RF-015 | A aplicação deve conter a ferramenta de lupa para controlar o zoom do site. | ALTA |
-|RF-016 | A aplicação deve conter a página "introdução tecnológica", a qual irá conter informações breves sobre as tecnologias até os tempos de hoje e dicas sobre o uso do computador. | ALTA |
+|RF-009 |A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário aprenderá brevemente sobre o funcionamento de aparelhos digitais, a internet, golpes e redes sociais com um quiz no final de cada fase. O usuário será pontuado de acordo com os acertos. | ALTA |  
+|RF-010 | A aplicação deve conter uma ferramenta de pesquisa onde serão listados interesses pré-definidos com base no público-alvo. | ALTA |
+|RF-011 | A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online. | ALTA |
+|RF-012 | A aplicação deve conter a página “Ajuda” com acesso a links de instituições e programas de apoio para o público-alvo. | ALTA |
+|RF-013 | Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas. | ALTA |
+|RF-014 | A aplicação deve conter a ferramenta de lupa para controlar o zoom do site. | ALTA |
+|RF-015 | A aplicação deve conter a página "introdução tecnológica", a qual irá conter informações breves sobre as tecnologias até os tempos de hoje e dicas sobre o uso do computador. | ALTA |
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
