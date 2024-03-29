@@ -79,7 +79,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003 | A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” | ALTA | 
 |RF-004 | A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | ALTA | 
 |RF-005 | A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais. | ALTA | 
-|RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário informará seu nome e poderá inserir um depoimento. | ALTA |
+|RF-006 | A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. | ALTA |
 |RF-007 | A aplicação deve permitir que o usuário possa apagar ou editar o seu depoimento. | ALTA |
 |RF-008 | A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários. | ALTA |
 |RF-009 | A aplicação deve permitir que o usuário possa responder o depoimento de outros usuários. | ALTA |
