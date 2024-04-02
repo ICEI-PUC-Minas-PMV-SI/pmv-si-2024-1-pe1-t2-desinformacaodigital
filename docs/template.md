@@ -18,9 +18,11 @@ Apresente a paleta de cores que será utilizada. Uma ferramenta interessante par
 
 As fontes utilizadas serão Montserrat para os títulos da página e a Open Sans para os textos. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/1ba756e8-db69-40a8-ba02-87a9eb77d7d2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/dba22e47-3d3c-4720-9101-3cc02bfd6483)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/05766c4d-89f9-42f8-b6ba-1a962b96121b)
+
+
+
 
 
 ## Iconografia
