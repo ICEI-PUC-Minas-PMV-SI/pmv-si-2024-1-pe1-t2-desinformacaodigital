@@ -54,6 +54,11 @@ Por meio dos cards disponibilizados na página Inicial, o usuário poderá acess
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6fb93d4c-4ce5-4756-9fd8-8c827291e581)
 
+### "Leis Digitais" 
+
+Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais.
+
+![leis digitais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/af6ce807-a704-4540-aed7-d6d79b344b36)
 
 ### Clube do Saber 
 
