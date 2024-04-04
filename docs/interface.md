@@ -38,6 +38,9 @@ A presença de uma página de glossário na aplicação é vital (RF-002), permi
 
 ![Captura de tela 2024-04-04 195444](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ce512a95-5bb3-4711-ae8f-b8b6dc0a4b83)
 
+A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” (RF-003)
+
+![Captura de tela 2024-04-04 195947](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/1789d19b-2ddc-4f67-81f1-bc3370ee04a9)
 
 ### Introdução tecnológica
 A página em questão, possui de forma dinâmica informações breves sobre as tecnologias até os tempos de hoje, como funciona um computador e dicas sobre o uso do mesmo.
