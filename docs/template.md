@@ -10,7 +10,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 ## Design
 
 Ao acessar a página principal da aplicação, você é apresentado ao seu design intuitivo e amigável. No cabeçalho, temos a logo e o título, botões de pesquisa e um menu com itens de inclusão digital.
-A paleta de cores cuidadosamente escolhida cria um ambiente visual agradável, calmo e tecnologico. Sobre os Cardas, estes organizam as informações de forma clara e chamativa. As fontes utilizadas foram selecionadas para garantir uma leitura confortável em qualquer dispositivo.
+A paleta de cores cuidadosamente escolhida cria um ambiente visual agradável, calmo e tecnologico. Sobre os Cards, estes organizam as informações de forma clara e chamativa. As fontes utilizadas foram selecionadas para garantir uma leitura confortável em qualquer dispositivo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/06302cf0-fe26-402b-883d-2cd9f84d247d)
 
