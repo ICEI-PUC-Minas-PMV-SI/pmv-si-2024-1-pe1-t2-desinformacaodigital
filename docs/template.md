@@ -1,8 +1,5 @@
 # Template padrão do site
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-Explique as guias de estilo utilizadas no seu projeto.
+Nessa seção, serão exibidos os detalhes e as características gráficas que compoêm a experiência. Descubra a paleta de cores cuidadosamente escolhida, os ícones intuitivos e o layout organizado que te guiam por toda a aplicação.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/84b054d9-5ab9-4469-8b44-0434182aeab1)
 
