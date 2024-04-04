@@ -32,6 +32,14 @@ Na página inicial o usuário terá todo o conteúdo para acessar por meio de Ca
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ec73fd5f-4b6b-4cc9-b445-8e92340d1377)
 
+### Introdução tecnológica
+A página em questão, possui de forma dinâmica informações breves sobre as tecnologias até os tempos de hoje, como funciona um computador e dicas sobre o uso do mesmo.
+
+![introtec](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/1cb9d5a6-eeea-47cc-a853-de8f7cd4a416)
+
+
+
+
 
 ### "Real ou Falso?" 
 
