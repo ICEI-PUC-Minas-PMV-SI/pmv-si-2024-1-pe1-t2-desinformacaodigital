@@ -51,9 +51,9 @@ Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Pass
 
 ![Section 9](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/bce97f78-39c7-402b-8b89-dee33aff736b)
 
-### Ajuda RF012 RF013
+### Ajuda
 
-Ao clicar na seção "Ajuda" (RF-012) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal, oportunidade em que deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
+Ao clicar na seção "Ajuda" (RF-012) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal (RF-013), oportunidade em que também deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
 
 ![AJUDA](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/207be1ea-cf9b-443e-9ec9-9993a6045ccd)
 
