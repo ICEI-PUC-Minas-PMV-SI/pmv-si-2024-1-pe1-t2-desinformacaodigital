@@ -45,8 +45,17 @@ Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Pass
 
 ![passeio tec 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/9fc31cef-912e-4e08-8057-cac7b3272fe9)
 
+![Section 3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/9be58a6d-6122-43a2-bdda-166a02ccbf73)
+
+![Section 8](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/60a6444e-4080-40e4-ac7b-68c89012aebb)
+
+![Section 9](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/bce97f78-39c7-402b-8b89-dee33aff736b)
 
 ### Ajuda RF012 RF013
+
+Ao clicar na seção "Ajuda" (RF-012) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal, oportunidade em que deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
+
+![AJUDA](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/207be1ea-cf9b-443e-9ec9-9993a6045ccd)
 
 
 ### Exemplo
