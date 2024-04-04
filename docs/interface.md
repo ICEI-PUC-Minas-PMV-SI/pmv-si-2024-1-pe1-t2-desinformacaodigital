@@ -48,9 +48,6 @@ A página em questão, possui de forma dinâmica informações breves sobre as t
 ![introtec](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/1cb9d5a6-eeea-47cc-a853-de8f7cd4a416)
 
 
-
-
-
 ### "Real ou Falso?" 
 
 Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana. 
@@ -62,6 +59,15 @@ Por meio dos cards disponibilizados na página Inicial, o usuário poderá acess
 Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais.
 
 ![leis digitais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/af6ce807-a704-4540-aed7-d6d79b344b36)
+
+
+#### Depoimentos 
+
+A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. (RF-006)
+
+![Captura de tela 2024-04-04 200730](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/55238f4d-682e-4e7a-a7ea-ecd821a7f927)
+
+
 
 ### Clube do Saber 
 
