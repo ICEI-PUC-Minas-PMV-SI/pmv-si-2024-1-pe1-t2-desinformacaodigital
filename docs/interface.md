@@ -32,6 +32,13 @@ Na página inicial o usuário terá todo o conteúdo para acessar por meio de Ca
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ec73fd5f-4b6b-4cc9-b445-8e92340d1377)
 
+### Glossário
+
+A presença de uma página de glossário na aplicação é vital (RF-002), permitindo que os usuários encontrem facilmente as definições das terminologias mais relevantes no âmbito digital, melhorando assim sua experiência de uso.
+
+![Captura de tela 2024-04-04 195444](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ce512a95-5bb3-4711-ae8f-b8b6dc0a4b83)
+
+
 ### Introdução tecnológica
 A página em questão, possui de forma dinâmica informações breves sobre as tecnologias até os tempos de hoje, como funciona um computador e dicas sobre o uso do mesmo.
 
