@@ -8,6 +8,7 @@ Nosso principal objetivo é garantir que a navegação seja fácil e intuitiva p
 Assim, será possível aproveitar ao máximo tudo que o projeto oferece, sem se preocupar com barreiras de acessibilidade.
 ## User Flow
 
+![userflow](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/f0570785-c026-428f-b4f6-d7902b9e4298)
 
 
 
