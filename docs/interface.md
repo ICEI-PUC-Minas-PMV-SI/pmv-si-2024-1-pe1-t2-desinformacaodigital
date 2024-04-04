@@ -31,10 +31,20 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana. 
 
-![REAL OU FALSO 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/90b5d2f7-edb4-4484-8386-6b15886c236b)
+![REAL OU FALSO](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/1220cb57-4c9f-4201-b28d-15859dda19a1)
 
+### Clube do Saber 
 
-### Clube do Saber RF009
+Acessando o card "Clube do Saber" (RF-009) na página Inicial, o usuário será redirecionado para seção em que estarão disponibilizados três jogos, quais sejam, "Forca", "Palavras Cruzadas" e "Passeio Tecnológico", apresentados em forma de trilha de conhecimento e com níveis de dificuldade crescente. O conteúdo dos jogos é baseado nos conhecimentos apresentados na página "Introdução Tecnológica" acerca do funcionamento de aparalhos digitais, da internet e golpes digitais. 
+
+![clube do saber principal](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/66364e65-7bd7-41e9-b477-7289aef32df3)
+
+#### Passeio Tecnológico
+
+Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Passeio Tecnológico" (RF-009), sendo redirecionado para página contendo trilha de cinco perguntas com nível de dificuldade crescente. Ao clicar na forma geométrica referente à pergunta, surgirá um pop up contendo a pergunta e as opções que poderão ser selecionadas. Clicando na opção correta, o pop up adquirirá cor verde; se selecionada a opção incorreta, o pop adquirirá a cor vermelha e um botão com a opção de tentar novamente. 
+
+![passeio tec 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/9fc31cef-912e-4e08-8057-cac7b3272fe9)
+
 
 ### Ajuda RF012 RF013
 
