@@ -83,6 +83,9 @@ Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Pass
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/72e285e0-3303-48ec-88f3-03acb3d54fda)
 
 
+![Captura de tela 2024-04-04 200259](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/d53e4a34-f3e4-41a2-a552-bf053140199e)
+
+
 ### Ajuda
 
 Ao clicar na seção "Ajuda" (RF-012) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal (RF-013), oportunidade em que também deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
