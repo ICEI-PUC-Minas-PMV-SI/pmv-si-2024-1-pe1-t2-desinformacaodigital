@@ -1,7 +1,11 @@
 
 # Projeto de Interface
 
-Com o fluxo do usuário, é possível uma visão completa da experiência do usuário na aplicação, desde o início até o fim.
+Pensando em oferecer uma experiência amigável e inclusiva para os mais experientes, o Projeto de Interface foi criado com páginas repletas de recursos cuidadosamente selecionados.
+
+Nosso principal objetivo é garantir que a navegação seja fácil e intuitiva para todos, com layouts claros e fontes de texto legíveis, sem qualquer tipo de dificuldade.
+
+Assim, será possível aproveitar ao máximo tudo que o projeto oferece, sem se preocupar com barreiras de acessibilidade.
 ## User Flow
 
 ![userflow](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/5e72de60-e983-4e7c-baa8-4c8596efd264)
