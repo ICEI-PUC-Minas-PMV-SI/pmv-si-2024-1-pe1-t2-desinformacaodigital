@@ -27,6 +27,18 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
 
+### "Real ou Falso?" 
+
+Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana. 
+
+![REAL OU FALSO 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/90b5d2f7-edb4-4484-8386-6b15886c236b)
+
+
+### Clube do Saber RF009
+
+### Ajuda RF012 RF013
+
+
 ### Exemplo
 
 A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
