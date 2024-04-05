@@ -47,6 +47,13 @@ A página em questão, possui de forma dinâmica informações breves sobre as t
 
 ![introtec](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/1cb9d5a6-eeea-47cc-a853-de8f7cd4a416)
 
+### “Como identificar um golpe”
+
+ Através dos card da página inicial, o usuário poderá acessar a página “Como identificar um golpe” (RF-011) a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/40d9c2dd-4624-45f8-8502-05d0da6d2912)
+
+
 
 ### "Real ou Falso?" 
 
@@ -74,6 +81,12 @@ A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário
 Acessando o card "Clube do Saber" (RF-009) na página Inicial, o usuário será redirecionado para seção em que estarão disponibilizados três jogos, quais sejam, "Forca", "Palavras Cruzadas" e "Passeio Tecnológico", apresentados em forma de trilha de conhecimento e com níveis de dificuldade crescente. O conteúdo dos jogos é baseado nos conhecimentos apresentados na página "Introdução Tecnológica" acerca do funcionamento de aparalhos digitais, da internet e golpes digitais. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/e58bb852-de7f-4e76-b06b-32c9caf7bf7d)
+
+### Forca
+Nesta aplicação o usuário terá a opção de selecionar o jogo "Forca" (RF-009), o jogador tem que acertar qual é a palavra proposta, tendo como dica o número de letras e o tema ligado à palavra. A cada letra errada, é desenhado uma parte do corpo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/8042b4c2-09a4-475e-8104-ccf6589abb57)
+
 
 
 #### Passeio Tecnológico
