@@ -91,6 +91,9 @@ Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Pass
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/72e285e0-3303-48ec-88f3-03acb3d54fda)
 
+#### Passeio Tecnológico
+
+No "Clube do Saber", os usuários podem optar por selecionar o jogo "Palavras Cruzadas" (RF-009).
 
 ![Captura de tela 2024-04-04 200259](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/d53e4a34-f3e4-41a2-a552-bf053140199e)
 
