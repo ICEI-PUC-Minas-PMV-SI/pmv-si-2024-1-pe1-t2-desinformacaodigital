@@ -87,6 +87,7 @@ Acessando o card "Clube do Saber" (RF-008) na página Inicial, o usuário será 
 ### Forca
 Nesta aplicação o usuário terá a opção de selecionar o jogo "Forca" (RF-008), o jogador tem que acertar qual é a palavra proposta, tendo como dica o número de letras e o tema ligado à palavra. A cada letra errada, é desenhado uma parte do corpo.
 (RF-013) (RF-009)
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/8042b4c2-09a4-475e-8104-ccf6589abb57)
 
 #### "Palavras Cruzadas" 
