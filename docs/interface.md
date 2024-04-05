@@ -27,50 +27,52 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
 
-### Página Inicial
-Na página inicial o usuário terá todo o conteúdo para acessar por meio de Cards e ícones disponibilizados pelo site de forma objetiva de modo a facilitar a leitura e a navegação.
+### "Página Inicial"
+A página Inicial irá apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. (RF-001)  (RF-013)
+(RF-009)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ec73fd5f-4b6b-4cc9-b445-8e92340d1377)
 
-### Glossário
+### "Glossário"
 
-A presença de uma página de glossário na aplicação é vital (RF-002), permitindo que os usuários encontrem facilmente as definições das terminologias mais relevantes no âmbito digital, melhorando assim sua experiência de uso.
+A presença de uma página de glossário na aplicação é vital (RF-002), permitindo que os usuários encontrem facilmente as definições das terminologias mais relevantes no âmbito digital, melhorando assim sua experiência de uso.  (RF-013)
+(RF-009)
 
 ![Captura de tela 2024-04-04 195444](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ce512a95-5bb3-4711-ae8f-b8b6dc0a4b83)
 
-A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” (RF-003)
+A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” (RF-003) (RF-013) (RF-009)
 
 ![Captura de tela 2024-04-04 195947](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/1789d19b-2ddc-4f67-81f1-bc3370ee04a9)
 
-### Introdução tecnológica
-A página em questão, possui de forma dinâmica informações breves sobre as tecnologias até os tempos de hoje, como funciona um computador e dicas sobre o uso do mesmo.
+### "Introdução tecnológica"
+A página em questão, possui de forma dinâmica informações breves sobre as tecnologias até os tempos de hoje, como funciona um computador e dicas sobre o uso do mesmo. (RF-014)  (RF-013) (RF-009)
 
 ![introtec](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/1cb9d5a6-eeea-47cc-a853-de8f7cd4a416)
 
 ### “Como identificar um golpe”
 
- Através dos card da página inicial, o usuário poderá acessar a página “Como identificar um golpe” (RF-011) a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.
-
+ Através dos card da página inicial, o usuário poderá acessar a página “Como identificar um golpe” (RF-010) a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.  (RF-013) (RF-009)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/40d9c2dd-4624-45f8-8502-05d0da6d2912)
 
 
 
 ### "Real ou Falso?" 
 
-Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana. 
+Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana.   (RF-013) (RF-009)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6fb93d4c-4ce5-4756-9fd8-8c827291e581)
 
 ### "Leis Digitais" 
 
-Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais.
+Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais. (RF-013) (RF-009)
 
 ![leis digitais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/af6ce807-a704-4540-aed7-d6d79b344b36)
 
 
-#### Depoimentos 
+#### "Depoimentos"
 
-A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. (RF-006)
+A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. (RF-006) (RF-007)
+
 
 ![Captura de tela 2024-04-04 200730](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/55238f4d-682e-4e7a-a7ea-ecd821a7f927)
 
@@ -78,20 +80,24 @@ A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário
 
 ### Clube do Saber 
 
-Acessando o card "Clube do Saber" (RF-009) na página Inicial, o usuário será redirecionado para seção em que estarão disponibilizados três jogos, quais sejam, "Forca", "Palavras Cruzadas" e "Passeio Tecnológico", apresentados em forma de trilha de conhecimento e com níveis de dificuldade crescente. O conteúdo dos jogos é baseado nos conhecimentos apresentados na página "Introdução Tecnológica" acerca do funcionamento de aparalhos digitais, da internet e golpes digitais. 
+Acessando o card "Clube do Saber" (RF-008) na página Inicial, o usuário será redirecionado para seção em que estarão disponibilizados três jogos, quais sejam, "Forca", "Palavras Cruzadas" e "Passeio Tecnológico", apresentados em forma de trilha de conhecimento e com níveis de dificuldade crescente. O conteúdo dos jogos é baseado nos conhecimentos apresentados na página "Introdução Tecnológica" acerca do funcionamento de aparalhos digitais, da internet e golpes digitais. (RF-013) (RF-009)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/e58bb852-de7f-4e76-b06b-32c9caf7bf7d)
 
 ### Forca
-Nesta aplicação o usuário terá a opção de selecionar o jogo "Forca" (RF-009), o jogador tem que acertar qual é a palavra proposta, tendo como dica o número de letras e o tema ligado à palavra. A cada letra errada, é desenhado uma parte do corpo.
-
+Nesta aplicação o usuário terá a opção de selecionar o jogo "Forca" (RF-008), o jogador tem que acertar qual é a palavra proposta, tendo como dica o número de letras e o tema ligado à palavra. A cada letra errada, é desenhado uma parte do corpo.
+(RF-013) (RF-009)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/8042b4c2-09a4-475e-8104-ccf6589abb57)
 
+#### "Palavras Cruzadas" 
 
+No "Clube do Saber", os usuários podem optar por selecionar o jogo "Palavras Cruzadas" (RF-008). (RF-013) (RF-009)
+
+![Captura de tela 2024-04-04 200259](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/d53e4a34-f3e4-41a2-a552-bf053140199e)
 
 #### Passeio Tecnológico
 
-Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Passeio Tecnológico" (RF-009), sendo redirecionado para página contendo trilha de cinco perguntas com nível de dificuldade crescente. Ao clicar na forma geométrica referente à pergunta, surgirá um pop up contendo a pergunta e as opções que poderão ser selecionadas. Clicando na opção correta, o pop up adquirirá cor verde; se selecionada a opção incorreta, o pop adquirirá a cor vermelha e um botão com a opção de tentar novamente. 
+Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Passeio Tecnológico" (RF-008), sendo redirecionado para página contendo trilha de cinco perguntas com nível de dificuldade crescente. Ao clicar na forma geométrica referente à pergunta, surgirá um pop up contendo a pergunta e as opções que poderão ser selecionadas. Clicando na opção correta, o pop up adquirirá cor verde; se selecionada a opção incorreta, o pop adquirirá a cor vermelha e um botão com a opção de tentar novamente. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/0c33a7b9-10bf-45eb-b9f6-b6ddbabc7987)
 
@@ -104,26 +110,14 @@ Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Pass
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/72e285e0-3303-48ec-88f3-03acb3d54fda)
 
-#### Passeio Tecnológico
-
-No "Clube do Saber", os usuários podem optar por selecionar o jogo "Palavras Cruzadas" (RF-009).
-
-![Captura de tela 2024-04-04 200259](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/d53e4a34-f3e4-41a2-a552-bf053140199e)
-
 
 ### Ajuda
 
-Ao clicar na seção "Ajuda" (RF-012) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal (RF-013), oportunidade em que também deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
+Ao clicar na seção "Ajuda" (RF-011) da página Inicial, o usuário será redirecionado para página em que encontrará os links para redirecionamento externo à página de instituições e programas de apoio ao público-alvo, dispostos em formato de cards. A página também conta com campo em que o usuário poderá submeter uma demanda pessoal (RF-012), oportunidade em que também deverá informar, em campos próprios, seu nome, e-mail, telefone e endereço.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/d1872ca5-d296-44a8-bf46-0064db5ad3c7)
 
 
-
-### Exemplo
-
-A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
-
-![Exemplo de Wireframe](img/wireframe-example.png)
 
  
 > **Links Úteis**:
