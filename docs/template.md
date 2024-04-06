@@ -13,9 +13,11 @@ A paleta de cores cuidadosamente escolhida cria um ambiente visual agradável, c
 
 ## Cores
 
+As cores da identidade visual da aplicação foram selecionadas buscando criar um ambiente que propicie a ideia de segurança e confiança, especialmente voltado para idosos. A variação de cores violeta visa transmitir a ideia de criatividade e, em sua tonalidade mais clara, a tranquilidade. A escolha pela utilização do azul se baseia, principalmente, na sensação de confiança que a cor evoca. Finalmente, a opção pela utilização das cores branco, off-white e preto se dá em virtude da neutralidade representada por estas cores.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/2d8aa6c9-152c-49d8-87ce-559d4571f2ec)
 
-A escolha das cores foi selecionada com o objetivo de criar um ambiente de confiança, especialmente voltado para idosos. a cor branca é símbolo da paz, da espiritualidade, da inocência. A escolha das cores violeta azul pode ser baseada em várias razões, como calma, serena, confiança, principalmente devido às emoções e sentimentos que essas cores tendem a evocar. Violeta-africana significa riqueza e abundância. Ja a cor preta é frequentemente escolhida para simbolizar uma cor neutra.
+
 
 
 ## Tipografia
