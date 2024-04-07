@@ -1,6 +1,10 @@
 # Template padrão do site
 Nessa seção, serão exibidos os detalhes e as características gráficas que compoêm a experiência. Descubra a paleta de cores cuidadosamente escolhida, os ícones intuitivos e o layout organizado que te guiam por toda a aplicação.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/66edaa13-5c78-40e9-9ae2-c249b8a934c7)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a65d4332-f96a-4c66-bd59-9e7d76128a0e)
+
 
 
 ## Design
@@ -15,21 +19,15 @@ A paleta de cores cuidadosamente escolhida cria um ambiente visual agradável, c
 
 As cores da identidade visual da aplicação foram selecionadas buscando criar um ambiente que propicie a ideia de segurança e confiança, especialmente voltado para idosos. A variação de cores violeta visa transmitir a ideia de criatividade e, em sua tonalidade mais clara, a tranquilidade. A escolha pela utilização do azul se baseia, principalmente, na sensação de confiança que a cor evoca. Finalmente, a opção pela utilização das cores branco, off-white e preto se dá em virtude da neutralidade representada por estas cores.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/2d8aa6c9-152c-49d8-87ce-559d4571f2ec)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/cad29228-8f32-432d-8c8e-fb41c3d61ccd)
 
 
 
 ## Tipografia
 
-As fontes utilizadas serão Montserrat para os títulos da página e a Open Sans para os textos. 
+As fontes utilizadas na aplicação serão as citadas. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/84fe42d4-823d-434d-a78a-90978bc38018)
-
-
-
-
-
+![fontes](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/2a0744cd-0236-431d-b6f7-8c3ed84501fd)
 
 
 ## Iconografia
