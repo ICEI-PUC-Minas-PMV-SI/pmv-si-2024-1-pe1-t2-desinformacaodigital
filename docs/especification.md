@@ -57,7 +57,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Célia               | Encontrar plataforma que ajude a identificar a confiabilidade de lojas virtuais | Perder o receio de realizar compras online utilizando o cartão de crédito |
 |Beatriz             | Encontrar plataforma que reúna informações sobre leis, direitos e instituições de apoio à obtenção de aposentadoria | Obter informações a partir de meios seguros, evitando golpes e pessoas mal intecionadas |
 |Alessandra          | Encontrar plataforma que traga esclarecimentos sobre o uso de tecnologias e inovações, utilizando recursos inclusivos para quem possui baixa acuidade visual | Indicar a plataforma para sua mãe, que é acometida por baixa acuidade visual e busca autonomia em suas pesquisas |
-|José Honorino      | Encontrar plataforma instrucional com boa usabilidade e linguagem simples | Aprender a utilizar o computador e a internet, bem como a resolver pequenos problemas que possam surgir durante o uso |
+|José Honorino      | Encontrar plataforma instrucional fácil de utilizar e com linguagem simples | Aprender a utilizar o computador e a internet, bem como a resolver pequenos problemas que possam surgir durante o uso |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
