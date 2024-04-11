@@ -14,23 +14,21 @@ Nesse sentido, a aplicação se apresenta como meio de aproximar a população a
 
 ## Objetivos
 
-O combate à desinformação digital direcionada aos idosos é crucial para garantir que essa população vulnerável tenha acesso a informações confiáveis e não seja prejudicada por notícias falsas. Aqui estão algumas metas importantes para abordar esse problema:
+### Objetivo Geral
 
-1. Educação Digital: Promover programas de alfabetização digital específicos para idosos, ensinando-os a discernir entre fontes confiáveis e enganosas. Isso inclui identificar sinais de desinformação, como títulos sensacionalistas ou informações não verificadas.
+Oferecer ao público idoso conteúdo educativo que oriente sobre o uso adequado de tecnologias; fornecer informações sobre como identificar e evitar golpes nos meios digitais; conscientizar sobre as legislações aplicáveis às atividades em meio digital; orientar sobre canais confiáveis de checagem de fatos, bem como sobre como auxiliar na busca por ajuda especializada para aqueles que tenham sido vítimas de golpes. 
 
-2. Conscientização: Criar campanhas de conscientização sobre os riscos da desinformação digital. Os idosos devem estar cientes dos perigos das notícias falsas e do compartilhamento irresponsável de informações.
+### Objetivos Específicos
 
-3. Apoio Comunitário: Estabelecer redes de apoio comunitário para os idosos, onde possam discutir e verificar informações com seus pares. Isso pode incluir grupos de discussão on-line ou presenciais.
+•	Auxiliar idosos na busca pela autonomia informacional, produzindo conteúdos rápidos que os ajude a discernir entre fontes confiáveis e enganosas, bem como os eduque sobre sinais de desinformação, como títulos sensacionalistas ou informações não verificadas. 
 
-4. Colaboração com Plataformas Digitais: Trabalhar em conjunto com empresas de tecnologia e redes sociais para desenvolver ferramentas que identifiquem e combatam a desinformação. Isso pode incluir alertas de notícias falsas ou recursos de verificação de fatos.
+•	Promover a autodeterminação informativa do público idoso, por meio da indicação de fontes confiáveis de informação e agências verificadoras de notícias.
 
-5. Legislação Adequada: Pressionar por regulamentações que responsabilizem as plataformas digitais por disseminar desinformação. Isso pode envolver multas ou outras medidas para garantir que as empresas ajam de maneira ética.
+•	Estabelecer canal de apoio para os idosos, por meio do qual possam encaminhar dúvidas e solicitar ajuda dos voluntários do projeto. 
 
-6. Inclusão Digital: Garantir que os idosos tenham acesso fácil à tecnologia e à internet. Isso inclui treinamento para uso seguro e responsável da web.
+•	Estimular a instrução sobre legislações aplicáveis às atividades em meio digital e apontar instituições e organizações por meio das quais possam obter auxílio no exercício de direitos.
 
-7. Empoderamento: Capacitar os idosos a se tornarem defensores da verdade e a compartilhar informações corretas com suas redes sociais e familiares.
-
-Lembrando que a desinformação digital é um problema que afeta a todos, independentemente da idade, mas é especialmente importante proteger os idosos, que podem ser mais suscetíveis a acreditar em informações enganosas.
+•	Promover a inclusão digital por meio de conteúdos educativos e jogos de fixação a respeito do uso de tecnologias e do uso seguro e responsável da web.
 
 ## Justificativa
 
