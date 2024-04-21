@@ -1,9 +1,10 @@
 # Template padrão do site
 Nessa seção, serão exibidos os detalhes e as características gráficas que compoêm a experiência. Descubra a paleta de cores cuidadosamente escolhida, os ícones intuitivos e o layout organizado que te guiam por toda a aplicação.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/66edaa13-5c78-40e9-9ae2-c249b8a934c7)
+![EMPLATE PADRAO ATUAL](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ad055639-032f-4f24-ba06-9b5d551c842f)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a65d4332-f96a-4c66-bd59-9e7d76128a0e)
+![TEMPLATE PADRAO ATUAL MOBILE](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ab3f8991-a64f-44d0-a794-28a70edd73d6)
+
 
 
 
