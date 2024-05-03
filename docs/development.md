@@ -27,8 +27,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | João | index.html |
 |RF-004| A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | Amanda | realfalso.html / realfalso.css |
+|RF-005| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.	| João Eduardo | leisdigitais.html / leisdigitais.css |
 
 ## Descrição das estruturas:
 
