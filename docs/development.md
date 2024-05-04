@@ -29,6 +29,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |------|------------------------|------------|-----------------|
 |RF-004| A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | Amanda | realfalso.html / realfalso.css |
 |RF-005| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.	| João Eduardo | leisdigitais.html / leisdigitais.css |
+|RF-010| A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.	| Daniel Vitor | comoindentificarumgolpe.html / comoindentificarumgolpe.css |
 
 ## Descrição das estruturas:
 
