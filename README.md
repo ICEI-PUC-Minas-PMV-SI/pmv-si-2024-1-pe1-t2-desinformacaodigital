@@ -1,10 +1,12 @@
-# Título do Projeto
+# InfoClube
 
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
+
+![logo_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/7276ba05-6aaf-47a6-be93-d2aeb712d827)
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
