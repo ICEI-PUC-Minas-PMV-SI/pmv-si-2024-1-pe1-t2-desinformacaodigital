@@ -13,7 +13,8 @@ Nessa seção, serão exibidos os detalhes e as características gráficas que c
 Ao acessar a página principal da aplicação, você é apresentado ao seu design intuitivo e amigável. No cabeçalho, temos a logo e o título, botões de pesquisa e um menu com itens de inclusão digital.
 A paleta de cores cuidadosamente escolhida cria um ambiente visual agradável, calmo e tecnologico. Sobre os Cards, estes organizam as informações de forma clara e chamativa. As fontes utilizadas foram selecionadas para garantir uma leitura confortável em qualquer dispositivo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/06302cf0-fe26-402b-883d-2cd9f84d247d)
+![logo (2)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/b7c8e961-268c-4c20-a584-9b238412c17c)
+
 
 
 ## Cores
