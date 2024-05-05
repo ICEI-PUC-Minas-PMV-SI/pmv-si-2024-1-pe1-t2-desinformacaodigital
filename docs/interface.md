@@ -40,14 +40,16 @@ A página em questão, possui de forma dinâmica informações breves sobre as t
 ### “Como identificar um golpe”
 
  Através dos card da página inicial, o usuário poderá acessar a página “Como identificar um golpe” (RF-010) a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.  (RF-013) (RF-009)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/40d9c2dd-4624-45f8-8502-05d0da6d2912)
+
+![identgolpe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ad9fb942-7edc-4988-be90-9c36ca4ce4d1)
+
 
 
 ### "Real ou Falso?" 
 
 Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana.   (RF-013) (RF-009)
 
-![realoufalso](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/160f70b1-dce7-4269-a11d-ce1652d0f4e4)
+![realoufalso](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/893c3909-dd1e-43f3-9e95-c56da94be15e)
 
 
 
@@ -55,7 +57,7 @@ Por meio dos cards disponibilizados na página Inicial, o usuário poderá acess
 
 Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais. (RF-013) (RF-009)
 
-![leis digitais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/af6ce807-a704-4540-aed7-d6d79b344b36)
+![leis](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ddcf01f9-935f-49d7-a187-1f21028bb669)
 
 
 #### "Depoimentos"
