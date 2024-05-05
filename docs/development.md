@@ -27,9 +27,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-004| A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | Amanda | realfalso.html / realfalso.css |
+|RF-001 | A aplicação deve conter uma página inicial para apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. | Jennifer | index.html / style.css |
+|RF-014 | A aplicação deve conter a página "introdução tecnológica", a qual irá conter informações breves sobre as tecnologias até os tempos de hoje e dicas sobre o uso do computador. | Jennifer | introduçãotecnologica.html / intro.css |
+|RF-004| A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | Amanda | realoufalso.html / realoufalso.css |
 |RF-005| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.	| João Eduardo | leisdigitais.html / leisdigitais.css |
-|RF-010| A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.	| Daniel Vitor | comoindentificarumgolpe.html / comoindentificarumgolpe.css |
+|RF-010| A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.	| Daniel Vitor | identgolpe.html / identgolpe.css / gopix.html / gopix.css / phis.html / phis.css / wpp.html / wpp.css |
 |RF-011| A aplicação deve conter a página “Ajuda” com acesso a links de sites para ajudar a indentificar tipos de golpes.	| Luis Duarte | ajuda.html / ajuda.css |
 |RF-012| Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.| Luis Duarte | ajuda.html / ajuda.css |
 
