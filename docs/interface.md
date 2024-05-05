@@ -15,8 +15,7 @@ Pensando em oferecer uma experiência amigável e inclusiva para os mais experie
 A página Inicial irá apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. (RF-001)  (RF-013)
 (RF-009)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ec73fd5f-4b6b-4cc9-b445-8e92340d1377)
-
+![EMPLATE PADRAO ATUAL](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ad055639-032f-4f24-ba06-9b5d551c842f)
 
 ### "Glossário"
 
@@ -41,28 +40,31 @@ A página em questão, possui de forma dinâmica informações breves sobre as t
 ### “Como identificar um golpe”
 
  Através dos card da página inicial, o usuário poderá acessar a página “Como identificar um golpe” (RF-010) a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.  (RF-013) (RF-009)
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/40d9c2dd-4624-45f8-8502-05d0da6d2912)
+
+![identgolpe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ad9fb942-7edc-4988-be90-9c36ca4ce4d1)
+
 
 
 ### "Real ou Falso?" 
 
 Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana.   (RF-013) (RF-009)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6fb93d4c-4ce5-4756-9fd8-8c827291e581)
+![realoufalso](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/893c3909-dd1e-43f3-9e95-c56da94be15e)
+
 
 
 ### "Leis Digitais" 
 
 Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais. (RF-013) (RF-009)
 
-![leis digitais 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161175013/af6ce807-a704-4540-aed7-d6d79b344b36)
+![leis](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ddcf01f9-935f-49d7-a187-1f21028bb669)
 
 
 #### "Depoimentos"
 
 A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. (RF-006) (RF-007)
 
-![Captura de tela 2024-04-04 200730](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/55238f4d-682e-4e7a-a7ea-ecd821a7f927)
+![depoimentos](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/445423a1-5fc8-4196-b7d7-b0acb358cd4b)
 
 
 ### Clube do Saber 
