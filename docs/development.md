@@ -30,7 +30,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-001 | A aplicação deve conter uma página inicial para apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. | Jennifer | index.html / style.css |
 |RF-014 | A aplicação deve conter a página "introdução tecnológica", a qual irá conter informações breves sobre as tecnologias até os tempos de hoje e dicas sobre o uso do computador. | Jennifer | introduçãotecnologica.html / intro.css |
 |RF-004| A aplicação deve conter a página “Real ou falso?" para que o usuário possa encontrar as principais agências que checam a veracidade das notícias do Brasil. | Amanda | realoufalso.html / realoufalso.css |
-|RF-005| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.	| João Eduardo | leisdigitais.html / leisdigitais.css |
+|RF-005| A aplicação deve conter a página “Leis Digitais” com informações de leis referentes a golpes virtuais.	| João Eduardo | leisdigitais.html / leisdigitais.css | 
+|RF-002| A aplicação deve conter uma página de glossário onde o usuário poderá encontrar as definições de palavras mais usadas em um contexto digital. | Ester / João Eduardo | glossario.html / glossario.css |
 |RF-006| A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. | Ester | depoimentos.html / depoimentos.css
 |RF-010| A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.	| Daniel Vitor | identgolpe.html / identgolpe.css / gopix.html / gopix.css / phis.html / phis.css / wpp.html / wpp.css |
 |RF-011| A aplicação deve conter a página “Ajuda” com acesso a links de sites para ajudar a indentificar tipos de golpes.	| Luis Duarte | ajuda.html / ajuda.css |
