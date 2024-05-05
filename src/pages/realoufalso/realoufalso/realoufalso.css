@@ -34,7 +34,7 @@ h5 img{
  
  
 body{
-    background-color: #f6f4f3 !important;
+    background-color: #fff !important;
     margin: 100%;
  }
  
@@ -117,7 +117,7 @@ p a{
 
 .subtexto {
     font-size: 23px;
-    color: rgb(75, 74, 74);
+    color: #000;
     margin-left: 25px;
     margin-right: 100px;
     border-bottom: 1px;
@@ -190,7 +190,7 @@ p a{
 
 footer{
     margin-top: 1%;
-    background-image: linear-gradient(180deg,#f6f4f3, #f6f4f3, #988dc1, #3b429f, #01184e);
+    background-image: linear-gradient(180deg,#fff, #fff, #988dc1, #3b429f, #01184e);
     text-align: center;
     padding: 5px;
 
