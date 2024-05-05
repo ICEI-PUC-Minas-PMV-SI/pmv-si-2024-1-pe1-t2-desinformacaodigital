@@ -179,6 +179,7 @@ p a:hover{
     transition: transform 0.3s ease;
     background-color: #01184e;
     transition: box-shadow 0.3s ease;
+    
 
 }
 
@@ -194,8 +195,7 @@ p a:hover{
     padding-top: 20px;
     background-color: #01184e;
     color: #fff;
-    margin-left: 30px;
-    margin-right: 80px;
+    margin-right: 360px;
     border-radius: 10px;
     margin-top: 0;
 }
@@ -264,4 +264,16 @@ footer{
 
 footer p{
    color: #fff;
+}
+
+@media screen and (max-width: 768px){
+.section{
+    margin-left: 300px;
+}
+}
+
+@media screen and (max-width: 768px){
+    .textoajuda{
+    margin-left: 12%;
+}
 }
