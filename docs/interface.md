@@ -22,12 +22,7 @@ A página Inicial irá apresentar o propósito do projeto e informar sobre o fun
 A presença de uma página de glossário na aplicação é vital (RF-002), permitindo que os usuários encontrem facilmente as definições das terminologias mais relevantes no âmbito digital, melhorando assim sua experiência de uso.  (RF-013)
 (RF-009)
 
-![Captura de tela 2024-04-04 195444](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ce512a95-5bb3-4711-ae8f-b8b6dc0a4b83)
-
-
-A aplicação deve retornar um pop-up que contenha uma definição e exemplo do uso da palavra contida na página “glossário” (RF-003) (RF-013) (RF-009)
-
-![Captura de tela 2024-04-04 195947](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/1789d19b-2ddc-4f67-81f1-bc3370ee04a9)
+![glossario](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/e0fe4847-f478-43cf-b965-901b539ba6a8)
 
 
 ### "Introdução tecnológica"
@@ -57,7 +52,7 @@ Por meio dos cards disponibilizados na página Inicial, o usuário poderá acess
 
 Ao navegar pelos cards na página inicial, os usuários têm acesso à página "Leis Digitais" (RF-005), onde encontrarão informações essenciais sobre golpes virtuais. (RF-013) (RF-009)
 
-![leis](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/ddcf01f9-935f-49d7-a187-1f21028bb669)
+![leisdigitais](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/28cc975d-06d0-4751-932f-15872aed99da)
 
 
 #### "Depoimentos"
