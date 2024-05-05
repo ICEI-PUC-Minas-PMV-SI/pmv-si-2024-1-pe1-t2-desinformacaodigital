@@ -121,7 +121,7 @@ h2 {
 
 .form {
   width: 100%;
-  max-width: 34rem;
+  max-width: 32rem;
   font-size: 1.125rem;
   min-height: 100vh;
   display: flex;
@@ -308,5 +308,6 @@ footer p{
   width: 100%;
   display: inline-block;
   margin: -10px;
- }
+  color:#fff;
+}
  

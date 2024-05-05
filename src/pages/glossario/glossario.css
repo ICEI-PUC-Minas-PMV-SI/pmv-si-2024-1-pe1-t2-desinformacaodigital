@@ -178,6 +178,10 @@ footer{
     margin-bottom: -1cm;
 }
 
+footer p{
+    color:#fff;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 10px;
