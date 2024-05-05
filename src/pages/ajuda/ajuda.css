@@ -173,13 +173,18 @@ p a:hover{
     align-items: center;
     display: flex;
     justify-content: center;
+    margin-right: 10px;
    
 }
 
+.cards{
+    display: flex;
+    justify-content: space-between; 
+}
+
 .cardajuda img{
-    height: 300px;
-    display: block;
-    align-items: center;
+    height: auto;
+    width: 300px;
 }
 
 .card a {
@@ -188,6 +193,26 @@ p a:hover{
     text-align: center; 
 }
 
+
+.textoajuda {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 20px;
+    background-color: #01184e;
+    color: #fff;
+    margin-left: 30px;
+    margin-right: 80px;
+    border-radius: 10px;
+}
+
+.textoajuda h1{
+    font-weight: bolder;
+}
+
+.textoajuda p{
+    font-size: 20px;
+}
 
 @media screen and (max-width: 768px) {
     .card {
@@ -241,4 +266,8 @@ footer{
     font-size: medium;
     margin-top: 1cm;
     margin-bottom: -1cm;
+}
+
+footer p{
+   color: #fff;
 }
