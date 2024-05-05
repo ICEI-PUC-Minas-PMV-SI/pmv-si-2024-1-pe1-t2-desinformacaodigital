@@ -15,8 +15,7 @@ Pensando em oferecer uma experiência amigável e inclusiva para os mais experie
 A página Inicial irá apresentar o propósito do projeto e informar sobre o funcionamento da aplicação. (RF-001)  (RF-013)
 (RF-009)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ec73fd5f-4b6b-4cc9-b445-8e92340d1377)
-
+![EMPLATE PADRAO ATUAL](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/ad055639-032f-4f24-ba06-9b5d551c842f)
 
 ### "Glossário"
 
@@ -48,7 +47,8 @@ A página em questão, possui de forma dinâmica informações breves sobre as t
 
 Por meio dos cards disponibilizados na página Inicial, o usuário poderá acessar a página "Real ou Falso" (RF-004). Nesta seção poderão ser encontradas as principais agências que checam a veracidade das notícias publicadas no Brasil, bem como links para as principais notícias verificadas da semana.   (RF-013) (RF-009)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6fb93d4c-4ce5-4756-9fd8-8c827291e581)
+![realoufalso](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/160f70b1-dce7-4269-a11d-ce1652d0f4e4)
+
 
 
 ### "Leis Digitais" 
@@ -62,7 +62,7 @@ Ao navegar pelos cards na página inicial, os usuários têm acesso à página "
 
 A aplicação deverá disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento. (RF-006) (RF-007)
 
-![Captura de tela 2024-04-04 200730](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/55238f4d-682e-4e7a-a7ea-ecd821a7f927)
+![depoimentos](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/445423a1-5fc8-4196-b7d7-b0acb358cd4b)
 
 
 ### Clube do Saber 
