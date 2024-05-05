@@ -44,8 +44,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## Notícia
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
-
+| Id             | Numero (Inteiro)  | Identificador único do usuário            | 1                                              |
+| Nome         | Texto             | Nome do usuário                         | João da Silva                                   |
+| Telefone       | Número             | Telefone do usuário                       | (12) 3456-7890                            |
+| E-mail  | Texto  | Endereço de e-mail do usuário | joao.silva@email.com                                              |
+| Estado | Texto | Unidade Federativa do usuário| XY |
+| Idade | Número | Idade do usuário | 60 |
+| Descrição | Texto | Descrição da dúvida/depoimento do usuário | Preciso de ajuda com meu celular | 
