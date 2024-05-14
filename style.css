@@ -328,7 +328,7 @@ margin-left: 2px;
     padding: 1cm;
  }
 
-   .bg-custom {
+      .bg-custom {
         background-color:#01184e;
         margin-bottom: 2cm;
       }
@@ -344,13 +344,13 @@ margin-left: 2px;
         left: 0;
         font-size: medium;
         margin-top: 1cm;
-    
+        color: #fff;
       }
 
       body {
         padding-bottom: 200px;
       }
 
-    .puc{
+     .puc{
         margin-left: 1cm;
-    }
+      }
