@@ -9,3 +9,19 @@ form.addEventListener('submit', event => {
     console.log(message);
     console.log(form); 
 });
+
+
+// POPUP
+
+const popupdep = document.querySelector("#pop");
+const overlay = document.querySelector(".overlay");
+
+function openP() {
+    popupdep.classList.add("open");
+    overlay.classList.add("open");
+}
+
+function closeP() {
+    popupdep.classList.remove("open");
+    overlay.classList.remove("open");
+}

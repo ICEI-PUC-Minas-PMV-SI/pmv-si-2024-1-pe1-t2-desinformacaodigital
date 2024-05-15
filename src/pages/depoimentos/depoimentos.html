@@ -79,24 +79,24 @@
     
     <!-- FORMULÁRIO -->
 
-
-    <form
-      action=""
-      method="POST"
-      class="form">
-    <h1>Compartilhe seu depoimento</h1>
+  <div class="container">
+    <form action="" method="POST" class="form">
+      <h1>Compartilhe seu depoimento</h1>
       <label for="name">Nome</label>
-      <input type="text" name="name" id="name" required />
+      <input type="text" name="name" id="name" required/>
       <label for="message">Depoimento</label>
       <textarea name="message" id="message" required></textarea>
-      <input type="hidden" name="_captcha" value="false" />
-      <input
-        type="hidden"
-        name="_next"
-        value=""
-      />
-      <button type="submit">Enviar</button>
+      <input type="hidden" name="_captcha" value="false"/>
+      <input type="hidden" name="_next" value=""/>
+        <button type="submit" class="btn" onclick='openP()'>Enviar</button>
+        <div class="popupdep" id="pop">
+          <h2> Depoimento Enviado! </h2>
+          <p> Tudo certo! Seu depoimento foi enviado com sucesso. Agradecemos por compartilhar sua experiência conosco. </p>
+          <button type="button" onclick='closeP()'> Fechar</button>
+        </div>
+        <div class="overlay" onclick="closeP()"></div>
     </form>
+  </div>
   
      <br><br><br><br>
 
