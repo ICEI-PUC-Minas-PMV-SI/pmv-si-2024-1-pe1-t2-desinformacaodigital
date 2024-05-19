@@ -164,7 +164,28 @@
                       </button>
                   </div>
                 </nav>
-      
+                <script>
+                  var zoomableElements = document.querySelectorAll('.texto, .destaque, p');
+              
+                  function zoomIn() {
+                      zoomableElements.forEach(function(element) {
+                          element.style.fontSize = '1.4em'; 
+                      });
+                  }
+              
+                  function zoomOut() {
+                      zoomableElements.forEach(function(element) {
+                          element.style.fontSize = '1.1em';
+                      });
+                  }
+              
+                  
+                  document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+              
+                  
+                  document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+              </script>
+            
       
     </body>
 

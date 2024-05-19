@@ -165,10 +165,6 @@
     
 </section>
 
-
-
-     
-        
 <div class="container-fluid">
     <div class="row">
       <div class="col-12">
@@ -211,6 +207,28 @@
             </div>
      </footer>
     
-</body>
+     <script>
+      var zoomableElements = document.querySelectorAll('p');
+  
+      function zoomIn() {
+          zoomableElements.forEach(function(element) {
+              element.style.fontSize = '1.5em'; 
+          });
+      }
+  
+      function zoomOut() {
+          zoomableElements.forEach(function(element) {
+              element.style.fontSize = '1em';
+          });
+      }
+  
+      
+      document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+  
+      
+      document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+  </script>
+
+    </body>
 
 </html>

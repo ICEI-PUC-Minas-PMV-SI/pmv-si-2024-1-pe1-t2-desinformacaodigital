@@ -221,7 +221,7 @@ max-width: 300px !important;
      .sub{
         text-decoration: none !important;
      }
-     p a{
+     p1 a{
         text-decoration: none !important;
         color:#2e417e;
         font-size:110%;
@@ -229,7 +229,7 @@ max-width: 300px !important;
         
         font-family: "Open Sans", sans-serif ;
      }
-     p a:hover{
+     p1 a:hover{
         background-color: #988dc1;
         border-radius: 5px;
      }

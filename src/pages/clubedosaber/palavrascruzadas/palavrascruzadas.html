@@ -94,7 +94,7 @@
             
             <div class="container">
                 <h1>Palavras Cruzadas</h1>
-                <p> Em nosso jogo, você encontrará um conjunto de 10 palavras distribuidas tanto verticalmente quanto horizontalmente. Na lateral da página, teremos pistas para cada uma delas. Para preencher as respostas no jogo, basta clicar em 'RESPONDER' na pista correspondente. Quando acertar, a palavra ficará verde; se errar, ficará vermelha. Use o botão 'Apagar' para remover letras ou limpar tudo. Se precisar de ajuda, o botão 'Solução' preencherá automaticamente todas as respostas. Quando terminar, clique em 'Next Game' para o próximo jogo, ou 'Back Game' para voltar.</p>
+                <p1> Em nosso jogo, você encontrará um conjunto de 10 palavras distribuidas tanto verticalmente quanto horizontalmente. Na lateral da página, teremos pistas para cada uma delas. Para preencher as respostas no jogo, basta clicar em 'RESPONDER' na pista correspondente. Quando acertar, a palavra ficará verde; se errar, ficará vermelha. Use o botão 'Apagar' para remover letras ou limpar tudo. Se precisar de ajuda, o botão 'Solução' preencherá automaticamente todas as respostas. Quando terminar, clique em 'Next Game' para o próximo jogo, ou 'Back Game' para voltar.</p1>
                 <div class="row">
                     <div class="col-md-5">
                         <h4>Horizontal</h4>
@@ -427,7 +427,30 @@
                 integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
             </script>
 
-        </body>
+<script>
+    var zoomableElements = document.querySelectorAll('p1, p, .btn-primary, .d1, .d2, .m1, .m2, .d3, .m3, .m4, .d4, .m5, .d5, .d7 ');
+
+    function zoomIn() {
+        zoomableElements.forEach(function(element) {
+            element.style.fontSize = '1.3em'; 
+        });
+    }
+
+    function zoomOut() {
+        zoomableElements.forEach(function(element) {
+            element.style.fontSize = '1em'; 
+        });
+    }
+
+    
+    document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+
+    document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+</script>
+    
+
+
+</body>
 
         <footer class="rodape">
         </div> <img src="../../../assets/icons/logo.png" alt="Infoclube" height="65">

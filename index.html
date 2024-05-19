@@ -133,7 +133,7 @@
     </div>
 
 
-</body>
+
 
 <p1>
   <p><br></p>
@@ -324,6 +324,28 @@
   </div>
 </footer>
 </div>
+<script>
+  var zoomableElements = document.querySelectorAll('p, .texto, .key, .usa, .destaque');
+
+  function zoomIn() {
+      zoomableElements.forEach(function(element) {
+          element.style.fontSize = '1.2em'; 
+      });
+  }
+
+  function zoomOut() {
+      zoomableElements.forEach(function(element) {
+          element.style.fontSize = '1.0em';
+      });
+  }
+
   
+  document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+
+  
+  document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+</script>
+
+</body>
 
 </html>

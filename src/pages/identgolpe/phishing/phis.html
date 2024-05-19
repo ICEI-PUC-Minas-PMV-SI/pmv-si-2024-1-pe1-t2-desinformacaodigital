@@ -117,15 +117,13 @@
         <div class="destaque"> O phishing é uma forma a qual os golpistas tentam enganar pessoas para divulgarem informações pessoais, como senhas, números de cartão de crédito ou dados bancários. Esse tipo de golpe é geralmente realizado por meio de e-mails, mensagens de texto, chamadas telefônicas ou até mesmo por meio de mensagens em redes sociais.
         Os golpistas se passam por instituições, como bancos, empresas de cartão de crédito, sites de compras online ou até mesmo órgãos governamentais. Eles enviam mensagens que parecem autênticas, muitas vezes incluindo logotipos e design semelhantes aos das empresas reais, na tentativa de convencer as vítimas a fornecerem suas informações pessoais e financeiras.
         </div>
-        <p>
-          
-          <p><br></p>
+        
           <div class="texto">
             <h1>• Como me previnir do golpe?</h1>
             <br>
             <div class="destaque"> Para se proteger contra o golpe phishing, é essencial manter o software de segurança atualizado, evite clicar em links suspeitos, usar senhas fortes e únicas para cada conta e estar sempre vigilante ao lidar com comunicações online suspeitas.
             </div>
-            <p>
+            
     
 
               <div class="row">
@@ -183,7 +181,27 @@
                           </button>                        
                       </div>
                 </nav>
-
+                <script>
+                  var zoomableElements = document.querySelectorAll('.texto, .destaque');
+              
+                  function zoomIn() {
+                      zoomableElements.forEach(function(element) {
+                          element.style.fontSize = '1.4em'; 
+                      });
+                  }
+              
+                  function zoomOut() {
+                      zoomableElements.forEach(function(element) {
+                          element.style.fontSize = '1.1em';
+                      });
+                  }
+              
+                  
+                  document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+              
+                  
+                  document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+              </script>
 
 </body>
 

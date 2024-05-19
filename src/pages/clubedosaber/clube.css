@@ -184,7 +184,7 @@ footer {
 
 @media (max-width: 768px) {
     .titulo h1 {
-        margin-left: 1cm;
+        margin-right: 1cm;
         font-size: 50px;
     }
 
