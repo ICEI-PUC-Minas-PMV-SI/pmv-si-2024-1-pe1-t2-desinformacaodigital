@@ -72,7 +72,7 @@ submitButton.addEventListener('click', () => {
         } else {
             wrongLetters.push(letter);
             attempts--;
-            hangmanImage.src = `../../../assets/component/hangman   ${6 - attempts}.png`;
+            hangmanImage.src = `../../../assets/component/hangman${6 - attempts}.png`;
             updateWrongLetters();
         }
     }
