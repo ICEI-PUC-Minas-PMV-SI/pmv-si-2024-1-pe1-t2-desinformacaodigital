@@ -31,9 +31,9 @@ function startGame() {
     attempts = 6;
 
     hintElement.textContent = `: ${selectedHint}`;
-    hintElement.style.fontSize = '30px'; // Ajuste o tamanho da fonte conforme desejado
+    hintElement.style.fontSize = '30px';
     wrongLettersElement.textContent = '';
-    hangmanImage.src = `img/hangman0.png`;
+    hangmanImage.src = `../../../assets/component/hangman0.png`;
     displayWord();
     popup.style.display = 'none';
 }
@@ -72,7 +72,7 @@ submitButton.addEventListener('click', () => {
         } else {
             wrongLetters.push(letter);
             attempts--;
-            hangmanImage.src = `img/hangman${6 - attempts}.png`;
+            hangmanImage.src = `../../../assets/component/hangman   ${6 - attempts}.png`;
             updateWrongLetters();
         }
     }

@@ -81,7 +81,7 @@
 
   <div class="container">
     <form action="" method="POST" class="form">
-      <h1>Compartilhe seu depoimento</h1>
+      <h1>Compartilhe seu depoimento</h1> 
       <label for="name">Nome</label>
       <input type="text" name="name" id="name" required/>
       <label for="message">Depoimento</label>
@@ -323,7 +323,31 @@
       </div>
     
     <script src="depoimento.js"></script>
-</body>
+
+    <script>
+      var zoomableElements = document.querySelectorAll('p, label, input, textarea, .bt1, .bt2');
+  
+      function zoomIn() {
+          zoomableElements.forEach(function(element) {
+              element.style.fontSize = '1.7em'; 
+          });
+      }
+  
+      function zoomOut() {
+          zoomableElements.forEach(function(element) {
+              element.style.fontSize = '1.3em';
+          });
+      }
+  
+      
+      document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+  
+      
+      document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+  </script>
+
+
+  </body>
 
 <footer class="rodape">
   </div> <img src="../../../src/assets/icons/logo.png" alt="Infoclube" height="65">
