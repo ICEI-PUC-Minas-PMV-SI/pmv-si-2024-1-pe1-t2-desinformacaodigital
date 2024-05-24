@@ -174,12 +174,24 @@
                     <input type="text" id="idade" name="idade"><br>
                     <label for="duvida">Descreva sua dúvida:</label><br>
                     <textarea id="duvida" name="duvida" rows="6" cols="100"></textarea><br>
-                    <input type="submit" value="Enviar">
+                    <button type="submit" class="btn" onclick='openP()'>Enviar</button>
+        <div class="popupdep" id="pop">
+          <h2> Ajuda Enviada! </h2>
+          <p> Tudo certo! Seu dúvida foi enviado com sucesso. Agradecemos por compartilhar sua experiência conosco. </p>
+          <button type="button" onclick='closeP()'> Fechar</button>
+        </div>
                 </form>
             </div>
         </div>
       </div>
     </div>
+
+    <script src="ajuda.js"></script>
+
+
+
+
+
     <footer class="rodape">
     </div> <img src="../../../src/assets/icons/logo.png" alt="Infoclube" height="65">
       <p><b> © Todos os direitos reservados.</b></p>

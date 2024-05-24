@@ -277,3 +277,77 @@ footer p{
     margin-left: 12%;
 }
 }
+
+
+/* POPUP */
+
+.container{
+    position: relative;
+  }
+  
+  .popupdep{
+    width: 400px; 
+    background-color: white;
+    border-color: #3b429f;
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%)  scale(0,.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #000;
+    visibility: hidden;
+    transition: all 0.4s;
+    z-index: 10; 
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    visibility: hidden;
+    z-index: 5; 
+  }
+  
+  .popupdep.open, .overlay.open {
+    visibility: visible;
+  }
+  
+  
+  .popupdep.open{
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  
+  .popupdep h2{
+  
+    font-size: 26px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+    color: #000;
+  }
+  
+  .popupdep button{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background-color: #2e417e;
+    color: white;
+    border: 0; 
+    border-radius: 4px;
+    font-size: 18px;
+    outline: none;
+    box-shadow: 0 5px rgba(0, 0, 0, 0.2,)
+  }
+  
+  .popupdep p{
+    line-height: 22px;
+  }
+
+
+  
