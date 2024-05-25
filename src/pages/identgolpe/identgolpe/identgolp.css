@@ -254,6 +254,8 @@ max-width: 300px !important;
         text-align: start;
         
         
+        
+        
 
         }
         
@@ -273,6 +275,7 @@ max-width: 300px !important;
             font-weight: 700;
             font-size: 30px;
             font-family:'Open Sans', sans-serif;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
         }
 
@@ -302,6 +305,7 @@ max-width: 300px !important;
        text-align: left;
         font-size: 150%;
         font-family:'Open Sans', sans-serif;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         
 
  }
