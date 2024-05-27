@@ -89,10 +89,10 @@
 
     <div class="paragrafo">
     <h1>Glossário</h1>
-    </div>
+    </div>  
     <article id="topo">
       
-
+<div class="let">
        <section id="letterlinks">
         <a href="#A">A</a>
         <a href="#B">B</a>
@@ -121,7 +121,7 @@
         <a href="#Y">Y</a>
         <a href="#Z">Z</a>
        </section>
-
+    </div>
        <div class="letrasp">
        <H2 id="A"> A </H2>
        </div>
@@ -751,6 +751,29 @@
                   <div class="col-12 spacer"></div>
                 </div>
               </div>
+
+              <script>
+                var zoomableElements = document.querySelectorAll('p, h1, letterlinks, .letrasp, .letras, .let');
+            
+                function zoomIn() {
+                    zoomableElements.forEach(function(element) {
+                        element.style.fontSize = '1.7em'; 
+                    });
+                }
+            
+                function zoomOut() {
+                    zoomableElements.forEach(function(element) {
+                        element.style.fontSize = '1.0em';
+                    });
+                }
+            
+                
+                document.querySelector('.bi.bi-zoom-in').addEventListener('click', zoomIn);
+            
+                
+                document.querySelector('.bi.bi-zoom-out').addEventListener('click', zoomOut);
+            </script>
+          
 
 </body>
 

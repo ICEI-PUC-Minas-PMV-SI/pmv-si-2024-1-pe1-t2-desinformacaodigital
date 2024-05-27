@@ -97,8 +97,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A aplicação deve ser responsiva e adaptável a qualquer interface. | ALTA |
 |RNF-003| A aplicação deve seguir o padrão das heurísticas de Nielsen. | ALTA |
 |RNF-004| A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari. | ALTA |
-|RNF-005| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Leitor de tela e áudio com pronúncia em duas línguas). | ALTA |
-|RNF-006| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados. | ALTA |
+|RNF-005| A aplicação deve possuir um layout de fácil entendimento e as seguintes ferramentas de acessibilidade: Leitor de tela e áudio com pronúncia em duas línguas). | BAIXA |
+|RNF-006| Os dados pessoais dos usuários devem ser criptografados antes de serem armazenados. | BAIXA |
 |RNF-007| A aplicação deve apresentar um feedback para ações do usuário como confirmações de envio e mensagens de erro | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
