@@ -77,198 +77,35 @@
           </ul>
         </div>
     
-    <!-- FORMULÁRIO -->
+      <!-- FORMULÁRIO -->
 
-  <div class="container">
-    <form action="" method="POST" class="form">
-      <h1>Compartilhe seu depoimento</h1> 
-      <label for="name">Nome</label>
-      <input type="text" name="name" id="name" required/>
-      <label for="message">Depoimento</label>
-      <textarea name="message" id="message" required></textarea>
-      <input type="hidden" name="_captcha" value="false"/>
-      <input type="hidden" name="_next" value=""/>
-        <button type="submit" class="btn" onclick='openP()'>Enviar</button>
-        <div class="popupdep" id="pop">
-          <h2> Depoimento Enviado! </h2>
-          <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, id. </p>
-          <button type="button" onclick='closeP()'> Fechar</button>
+      <div class="all">
+
+        <div class="form">
+          <h1> Compartilhe seu Depoimento!</h1>
+          <h5>Nome:</h5>
+          <input type="text" id='name' required/> <br/>
+          <h5>Depoimento:</h5>
+          <textarea rows="5" col="30" id="bodyText" required ></textarea><br/>
+          <input type="button" id="addComent" class="btn" onclick='openP()' value="Enviar depoimento"/>
+          <div class="popupdep" id="pop">
+            <h2> Depoimento Enviado! </h2>
+            <p> Agradecemos sinceramente por tirar um tempo para compartilhar seu depoimento conosco. Sua experiência é extremamente valiosa e nos ajuda a melhorar continuamente nossos serviços.  </p>
+            <button type="button" onclick='closeP()'> Fechar</button>
+          </div>
         </div>
-    </form>
-  </div>
-  
-     <br><br><br><br>
-
-    <!--DEPOIMENTOS-->
-
-
-    <div class="testimonial-container">
-        <div class="container">
-            <div class="nome">
-                <strong>Francisca</strong>
-            </div>
-                <p> Meu nome é Francisca e tenho 75 anos. Quero compartilhar que usar o computador tem sido um desafio para mim. Tudo mudou muito desde que eu era jovem, e às vezes me sinto perdida. Digitar é difícil, e entender todos esses botões é complicado, mas estou tentando aprender aos poucos, porque sei que é importante para me manter conectado com minha família e amigos.
-                </p>
-        </div>
-
-    <br><br>
-
-        <div class="container">
-            <div class="nome">
-                <strong>Maria Lúcia</strong>
-            </div>
-                <input type="checkbox" class="read-more-state" id="post2">
-                <p class="read-more-wrap"> Oi, me chamo Maria Lúcia, tenho 66 anos. Quero compartilhar algo que aconteceu comigo no WhatsApp e não foi legal. Recebi uma mensagem dizendo que ganhei um prêmio incrível, fiquei toda animada e só depois descobri que era um golpe. Acabei dando informações pessoais sem perceber e perdi dinheiro. 
-                    <span class="read-more-target"> Fiquei muito chateada, mas agora estou mais esperta, sempre desconfio de mensagens estranhas que recebo.
-                </p>
-                    <label for="post2" class="read-more-trigger"></label>
-                    <input type="checkbox" class="read-more-state" id="post2">
-        </div>
-
-    <br><br> 
-
-        <div class="container">
-            <div class="nome">
-                <strong> Pedro </strong>
-            </div>
-                <input type="checkbox" class="read-more-state" id="post3">
-                <p class="read-more-wrap"> Olá, eu sou o Pedro, tenho 73 anos. Queria compartilhar que os aplicativos do banco me deixam preocupado. Não consigo confiar neles. Parece que sempre tem alguém tentando me enganar. Essa coisa toda de tecnologia é complicada pra mim. Fico com medo de colocar meus dados lá e acabar perdendo dinheiro. 
-                    <span class="read-more-target">  Prefiro ir até o banco pessoalmente, mesmo que demore mais. Pelo menos assim me sinto mais seguro, sabendo com quem estou lidando.
-                </p>
-                    <label for="post3" class="read-more-trigger"></label>
-                    <input type="checkbox" class="read-more-state" id="post3">
-        </div>
-
-    <br><br> 
-    
-        <div class="container">
-            <div class="nome">
-                <strong>Paulo</strong>
-            </div>
-                <input type="checkbox" class="read-more-state" id="post4">
-                <p class="read-more-wrap"> Sou o Paulo e queria falar sobre algo que me preocupa. Meu pai, que é mais velho, acredita em muitas coisas que vê no WhatsApp, mesmo que sejam mentiras. É difícil convencê-lo do contrário e isso me deixa frustrado. Eu tento explicar que nem tudo que circula na internet é verdade, mas ele insiste em confiar.
-                    <span class="read-more-target"> Às vezes é complicado lidar com essa situação e me preocupo com as informações erradas que ele pode acabar espalhando.
-                </p>
-                    <label for="post4" class="read-more-trigger"></label>
-                    <input type="checkbox" class="read-more-state" id="post4">
-        </div>
-
-     
-    
-    </div>   
-
-
-    <!-- DEPOIMENTOS STYLE -->
-
-
-    <style>
-
-       *{
-          margin: 0;
-          padding: 0;
-       }
-
-       .testimonial-container{
-         position: relative;
-         left: 0 15px;
-         margin: 0 auto;
-         padding: 10px 15px;
-         background-color: #01184E;
-         border-radius: 15px;
-       }
-
-       .testimonial-container strong{
-        color: #fff;
-       }
-
-       .container{
-        margin-bottom: 20px;
-       }
-
-       p{
-          padding: 15px;
-          font-size: 16px;
-          border-radius: 10px;
-          background-color: #f6f4f3;
-          box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-       }
-
-       .read-more-state {
-          display: none;
-       }
-
-       .read-more-target{
-          max-height: 0;
-          opacity: 0;
-          font-size: 0;
-          transition: 0.45s ease;
-          font-weight: 100;
-          font-family: 'Open Sans', sans-serif;
-          
-       }
-
-       .read-more-target:hover{
-        background-color: #fff;
-        color: #000;
-       }
-
-       .read-more-state:checked~.read-more-wrap .read-more-target {
-         opacity: 1;
-         font-size: inherit;
-       }
-
-       .read-more-state~.read-more-trigger:before {
-         content: 'Ler mais';
-       }
-
-       .read-more-state:checked~.read-more-trigger:before{
-         content: 'Ler menos';
-       }
-
-       .read-more-trigger{
-         margin-top: 10px;
-         padding: 5px 15px;
-         display: inline-block;
-         cursor: pointer;
-         font-size: 14px;
-         line-height: 2;
-         border-radius: 10px;
-         background-color:#2E417E;
-         color: #fff;
-       }
-
-       .read-more-trigger:hover{
-        background-color: #988dc1;
-       }
-
-       .nome{
-        display: flex;
-        flex-direction: column;
-        padding-bottom: 3px;
-        }
-
-        .nome strong{
-         color: #ffffff;
-         font-size: 1rem;
-         letter-spacing: 0.5px;
-        }
-
-@media screen and (max-width: 768px) {
-        .nome {
-        text-align: center;
-        }
-}
-
-@media screen and (max-width: 576px) {
-        p {
-        font-size: 14px; 
-        }
-}
-
-</style>
-
+        
+        <div id="containercomment">
+          <div class='comentBox'>
+            <div class='leftPanelImg'><img src='img/usuario-de-perfil.png'></div>
+            <h1> Spencer Reid </h1>
+            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam sint velit expedita accusamus tenetur quis atque, ipsa eligendi nobis incidunt ducimus sunt ab impedit ratione odio! Ab soluta eveniet hic laboriosam libero adipisci aspernatur dolores voluptate, dolorum ducimus id mollitia praesentium cumque animi quis! Aspernatur odio consequatur asperiores eos quod?</p>
+          </div>
+            <div class='clear'></div>
+        </div> 
 
     <!-- BOTÃO DE PAGINAÇÃO -->
+    
     <div class="botao">
         <div class="paginacao">
             <button class="bt1" onclick="anteriorBt()">Anterior</button>
@@ -321,6 +158,7 @@
         </div>
       </div>
     
+    <script src="depoimento.js"></script>
     <script src="depoimento.js"></script>
 
     <script>

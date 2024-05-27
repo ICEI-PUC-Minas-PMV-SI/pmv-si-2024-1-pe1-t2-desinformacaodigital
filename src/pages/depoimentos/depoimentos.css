@@ -109,88 +109,145 @@ p a:hover{
 
 /* FORMULÁRIO */
 
-.form h1,
-h2 {
-  font-size: 3rem;
-  color: #fff;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
-  text-align: center;
-  line-height: 1.2;
-}
-
-.form {
-  width: 100%;
-  max-width: 32rem;
-  font-size: 1.125rem;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  padding: 1rem;
-  margin: auto;
+.comentBox{
+  padding: 10px;
   background-color: #2e417e;
-  border-radius: 15px;
-  margin-bottom: 80px;
-  margin-top: 30px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  min-height: 130px;
+  max-width: 900px; 
+  overflow:-moz-hidden-unscrollable;
 }
 
-.form label,
-.form input,
-.form textarea,
-.form button {
+.leftPanelImg{
+  width: 10%;
+  float: left;
+  margin-left: 6px;
+  margin-top: 6px;
+  margin-right: -36px;
+}
+
+.leftPanelImg img {
+  border-radius: 100%;
+  height: 48px;
+}
+
+.rightPanel{
+  width: 85%;
+  height: 60px;
+}
+
+.clear{ 
+  clear: both;
+}
+
+#containercomment{
+  position: relative;
+  padding-top: 130px;
+  align-items: center;
+  z-index: 1;
+  flex-direction: column;
+
+
+}
+
+#containercomment h1{
+  font-size: 18px;
+  margin-left: 65px;
+  margin-top: 18px;
+}
+
+.commenterName {
+  margin-top: 130px; 
   display: block;
+}
+
+.form{
+  background-color:#2e417e;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+  border-radius: 12px;
+  max-width: 500px;
+  height: 536px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  flex-direction: column;
+}
+
+.form input[type="text"], .form textarea{
+  border: 1px solid #3b429f;
+  padding: 2px;
+  width: 400px;
+  border-radius: 6px;
+}
+
+.form textarea{
+  height: 200px;
+  border: 1px solid #3b429f;
+  padding: 2px;
+  width: 400px;
+  border-radius: 6px;
+}
+
+input, textarea {
+  width: 100%; 
+  margin-bottom: 10px; 
+  padding: 8px; 
+  box-sizing: border-box; 
+}
+
+input[type="button"] {
+  width: auto; 
+  cursor: pointer; 
+}
+
+input[type="date"]{
+  width: 300px;
+}
+
+#addComent{
+  margin-top: 20px;
+  background-color: #988dc1;
+  border-radius: 5px;
+  color: white;
+  border-color: white;
+}
+
+.form h5{
+  text-align: left;
+  color: white;
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.form h1{
+  color: white;
+  font-size: 35px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Open Sans';
+}
+
+.all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 100%;
 }
 
-.form label {
-  color: #fff;
-  line-height: 1;
-  margin-bottom: 0.5rem;
+.all p{
+  margin-top: 32px;
+  margin-left: 20px;
+  color: white;
 }
 
-.form input,
-.form textarea {
-  font: inherit;
-  padding: 0.8rem;
-  margin-bottom: 1rem;
-  border: 1px solid transparent;
-  border-radius: 8px;
-  transition: border-color, box-shadow 0.2s;
-}
-
-.form textarea {
-  min-height: 13rem;
-  resize: vertical;
-}
-
-.form input:hover,
-.form input:focus,
-.form textarea:hover,
-.form textarea:focus {
-  outline: none;
-  border-color: #988dc1;
-  box-shadow: 0 0 0 3px #988dc1;
-}
-
-.form button {
-  display: block;
-  padding: 1rem;
-  background: #988dc1;
-  color: #fff;
-  font: inherit;
-  text-transform: uppercase;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: 0.2s;
-}
-
-.form button:hover,
-.form button:focus {
-  outline: none;
-  background: #f6f4f3;
-  color: #988dc1;
+.comentBox h1 {
+  color: white;
 }
 
 /* POPUP */
@@ -201,7 +258,7 @@ h2 {
 
 .popupdep{
   width: 400px; 
-  background-color: white;
+  background-color: #988dc1;
   border-color: #3b429f;
   border-radius: 6px;
   position: absolute;
@@ -234,7 +291,7 @@ h2 {
 
 .popupdep.open{
   visibility: visible;
-  top: 50%;
+  top:22%;
   transform: translate(-50%, -50%) scale(1);
 }
 
@@ -243,12 +300,13 @@ h2 {
   font-size: 26px;
   font-weight: 500;
   margin: 30px 0 10px;
-  color: #000;
+  color: white;
+  font-size: large;
 }
 
 .popupdep button{
   width: 100%;
-  margin-top: 50px;
+  margin-top: 20px;
   padding: 10px 0;
   background-color: #2e417e;
   color: white;
@@ -261,6 +319,7 @@ h2 {
 
 .popupdep p{
   line-height: 22px;
+  margin-left: -1px;
 }
 
 /*ÁREA DE DEPOIMENTOS */
@@ -330,6 +389,16 @@ h2 {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .paginacao {
+      flex-direction: column;
+      align-items: stretch;
+  }
+  .bt1, .bt2 {
+      margin-bottom: 10px; 
+  }
+} 
+
 /* BOTÕES INCLUSIVOS */
 
 .fixed-top-right {
@@ -338,8 +407,8 @@ h2 {
     right: 0;
     z-index: 1000; 
     flex-direction: column; 
-    gap: 0px; /*MUDA O GAP */
-    margin-top: 4cm; /*MUDAR *//
+    gap: 0px; 
+    margin-top: 4cm; 
 }
 
 .spacer {
