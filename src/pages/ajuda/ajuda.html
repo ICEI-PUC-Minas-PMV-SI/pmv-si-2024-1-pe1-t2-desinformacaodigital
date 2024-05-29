@@ -174,7 +174,28 @@
                   <input type="text" id="idade" name="idade"><br>
                   <label for="duvida">Descreva sua dúvida:</label><br>
                   <textarea id="duvida" name="duvida" rows="6" cols="100"></textarea><br>
-                  <button type="button" onclick="mostrarDepoimento()">Enviar</button>
+                  <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" onclick="mostrarDepoimento()" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Enviar
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Ajuda</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <h4>Dúvida enviada com sucesso!</h4>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
               </form>
           </div>
       </div>
@@ -200,7 +221,7 @@ function mostrarDepoimento() {
             idade: idade,
             duvida: duvida
         };
-
+        
         let duvidas = JSON.parse(localStorage.getItem('duvidas')) || [];
         duvidas.push(novaDuvida);
         localStorage.setItem('duvidas', JSON.stringify(duvidas));
