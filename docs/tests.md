@@ -41,6 +41,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT03 - Verificar funcionamento do menu lateral (navegação rápida)**
+ :--------------: | ------------
+**Procedimento**  | 1) Apertar o botão do menu lateral  para exibir os links para as páginas; <br> 2) Certificar que os links estão redirecionando para a página desejada; <br> 
+**Requisitos associados** | RF-008
+**Resultado esperado** | Navegar rápido para a página desejada
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -62,6 +70,12 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado |RF-012	A aplicação deve conter a ferramenta de lupa para controlar o zoom do site.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*CT03 - Verificar funcionamento do menu lateral (navegação rápida)*                                        |
+|---|---|
+|Requisito Associado |RF-008	A aplicação deve conter uma ferramenta de pesquisa onde serão listados interesses pré-definidos com base no público-alvo.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
 
 
 ## Avaliação dos Testes de Software
