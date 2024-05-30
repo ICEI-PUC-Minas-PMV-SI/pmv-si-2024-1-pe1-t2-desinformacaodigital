@@ -49,6 +49,23 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT04 - Envio de Depoimento (Identificado)**
+ :--------------: | ------------
+**Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Preencher o campo "Nome" com um nome válido; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
+**Requisitos associados** | RF-006
+**Resultado esperado** | O depoimento é enviado.
+**Dados de entrada** | 1) Nome; <br> 2) Depoimento.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 - Envio de Depoimento (Anônimo)**
+ :--------------: | ------------
+**Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Deixar o campo "Nome" vazio; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
+**Requisitos associados** | RF-006
+**Resultado esperado** | O depoimento é enviado de forma anônima.
+**Dados de entrada** | Depoimento.
+**Resultado obtido** | Sucesso.
+
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
