@@ -53,7 +53,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Preencher o campo "Nome" com um nome válido; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
 **Requisitos associados** | RF-006
-**Resultado esperado** | O depoimento é enviado.
+**Resultado esperado** | Depoimento enviado.
 **Dados de entrada** | 1) Nome; <br> 2) Depoimento.
 **Resultado obtido** | Sucesso.
 
@@ -61,8 +61,16 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Deixar o campo "Nome" vazio; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
 **Requisitos associados** | RF-006
-**Resultado esperado** | O depoimento é enviado de forma anônima.
+**Resultado esperado** | Depoimento enviado de forma anônima.
 **Dados de entrada** | Depoimento.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT05 - Envio de Depoimento (Anônimo)**
+ :--------------: | ------------
+**Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Verificar se o depoimento foi enviado;
+**Requisitos associados** | RF-007
+**Resultado esperado** | Depoimentos enviados são exibidos corretamente, com nomes ou de forma anônima conforme enviados.
+**Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
 
