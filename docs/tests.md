@@ -49,7 +49,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT04 - Envio de Depoimento (Identificado)**
+**Caso de Teste** | **CT04 - Envio de depoimento (Identificado)**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Preencher o campo "Nome" com um nome válido; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
 **Requisitos associados** | RF-006
@@ -57,7 +57,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | 1) Nome; <br> 2) Depoimento.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT05 - Envio de Depoimento (Anônimo)**
+**Caso de Teste** | **CT05 - Envio de depoimento (Anônimo)**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Deixar o campo "Nome" vazio; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
 **Requisitos associados** | RF-006
@@ -65,7 +65,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Depoimento.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT05 - Envio de Depoimento (Anônimo)**
+**Caso de Teste** | **CT06 - Visualização de depoimentos enviados**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Verificar se o depoimento foi enviado;
 **Requisitos associados** | RF-007
@@ -100,6 +100,22 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado |RF-008	A aplicação deve conter uma ferramenta de pesquisa onde serão listados interesses pré-definidos com base no público-alvo.|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*CT04 - CT04 - Envio de depoimento (Identificado)*                                        |
+|---|---|
+|Requisito Associado |RF-006	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT05 - CT04 - Envio de depoimento (Anônimo)*                                        |
+|---|---|
+|Requisito Associado |RF-006	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT06 - CT06 - Visualização de depoimentos enviados*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários.|
+|Link do vídeo do teste realizado: |  | 
+
 
 
 
