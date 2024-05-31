@@ -52,7 +52,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT04 - Envio de depoimento (Identificado)**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Preencher o campo "Nome" com um nome válido; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
-**Requisitos associados** | RF-006
+**Requisitos associados** | RF-005
 **Resultado esperado** | Depoimento enviado.
 **Dados de entrada** | 1) Nome; <br> 2) Depoimento.
 **Resultado obtido** | Sucesso.
@@ -60,7 +60,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT05 - Envio de depoimento (Anônimo)**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Deixar o campo "Nome" vazio; <br> 3) Preencher o campo "Depoimento" com um texto válido; <br> 4) Clicar no botão "Enviar depoimento".
-**Requisitos associados** | RF-006
+**Requisitos associados** | RF-005
 **Resultado esperado** | Depoimento enviado de forma anônima.
 **Dados de entrada** | Depoimento.
 **Resultado obtido** | Sucesso.
@@ -68,9 +68,49 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT06 - Visualização de depoimentos enviados**
  :--------------: | ------------
 **Procedimento**  | 1) Acessar a página de Depoimentos; <br> 2) Verificar se o depoimento foi enviado;
-**Requisitos associados** | RF-007
+**Requisitos associados** | RF-006
 **Resultado esperado** | Depoimentos enviados são exibidos corretamente, com nomes ou de forma anônima conforme enviados.
 **Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT07 -  Responder uma Palavra Corretamente (Palavras Cruzadas)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clicar no botão "Responder" ao lado de uma pista; <br> 2) Digitar a resposta correta;
+**Requisitos associados** | RF-007
+**Resultado esperado** | A palavra fica verde indicando que está correta.
+**Dados de entrada** | Resposta correta para uma pista específica. Ex.: Pista 1 - Resposta: Tela.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT08 -  Responder uma Palavra Incorretamente (Palavras Cruzadas)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clicar no botão "Responder" ao lado de uma pista; <br> 2) Digite uma resposta incorreta.
+**Requisitos associados** | RF-007
+**Resultado esperado** | A palavra fica vermelha indicando que está incorreta.
+**Dados de entrada** | Resposta incorreta para uma pista específica.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT09 -  Utilizar o Botão "Apagar (Palavras Cruzadas)**
+ :--------------: | ------------
+**Procedimento**  | 1) Insira pelo menos uma palavra correta ou incorreta na grade; <br> 2) Clique no botão "Apagar.
+**Requisitos associados** | RF-007	
+**Resultado esperado** | Todas as respostas inseridas são removidas da grade.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT10 -  Utilizar o Botão "Solução (Palavras Cruzadas)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique no botão "Solução";
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) Todas as respostas corretas são automaticamente preenchidas na grade; <br> 2) Todas as palavras ficam verdes indicando que estão corretas; <br> 3) Exibição de um pop-up de parabenização ao acertar todas as palavras.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT11 -  Interação do Usuário com a Interface (Palavras Cruzadas)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique em diferentes pistas para responder; <br> 2) Insira respostas em diferentes ordens; <br> 3) Utilize os botões "Responder", "Apagar" e "Solução" em combinação.
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) A interface responde corretamente a cada clique; <br> 2) As respostas são inseridas na posição correta conforme a pista selecionada; <br> 3) Os botões funcionam conforme especificado em todos os cenários testados.
+**Dados de entrada** | Respostas corretas e incorretas para várias pistas.
 **Resultado obtido** | Sucesso.
 
 
@@ -103,19 +143,43 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 
 |*Caso de Teste*                                 |*CT04 - CT04 - Envio de depoimento (Identificado)*                                        |
 |---|---|
-|Requisito Associado |RF-006	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
+|Requisito Associado |RF-005 A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
 |Link do vídeo do teste realizado: |  | 
 
-|*Caso de Teste*                                 |*CT05 - CT04 - Envio de depoimento (Anônimo)*                                        |
+|*Caso de Teste*                                 |*CT05 - CT05 - Envio de depoimento (Anônimo)*                                        |
 |---|---|
-|Requisito Associado |RF-006	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
+|Requisito Associado |RF-005	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
 |Link do vídeo do teste realizado: |  | 
 
 |*Caso de Teste*                                 |*CT06 - CT06 - Visualização de depoimentos enviados*                                        |
 |---|---|
-|Requisito Associado |RF-007	A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários.|
+|Requisito Associado |RF-006	A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários.|
 |Link do vídeo do teste realizado: |  | 
 
+|*Caso de Teste*                                 |*CT07 - CT07 - Responder uma Palavra Corretamente (Palavras Cruzadas)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT08 - CT08 - Responder uma Palavra Incorretamente (Palavras Cruzadas)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT09 - CT09 - Utilizar o Botão "Apagar (Palavras Cruzadas)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT10 - CT10 - Utilizar o Botão "Solução (Palavras Cruzadas)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT11 - CT11 - Interação do Usuário com a Interface (Palavras Cruzadas)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
 
 
 
