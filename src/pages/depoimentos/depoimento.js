@@ -1,6 +1,6 @@
 // FORM 
 function render(data){
-    var html = "<div class='comentBox'><div class='leftPanelImg'><img src='img/usuario-de-perfil.png'></div><h1>"+data.name+"</h1><p>"+data.body+"</p></div><div class='clear'></div></div>"
+    var html = "<div class='comentBox'><div class='leftPanelImg'><img src='../../../src/assets/icons/usuario-de-perfil.png'></div><h1>"+data.name+"</h1><p>"+data.body+"</p></div><div class='clear'></div></div>"
     $('#containercomment').append(html);
   }
   $(document).ready(function(){
