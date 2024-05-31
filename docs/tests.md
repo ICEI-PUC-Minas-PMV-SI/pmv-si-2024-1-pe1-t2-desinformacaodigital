@@ -145,6 +145,15 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+
+**Caso de Teste** | **CT16 - Adequação da aplicação às heurísticas de Nielsen**
+ :--------------: | ------------
+**Procedimento**  | 1) Acesse as páginas da aplicação.<br> 2) De acordo com as heurísticas de Nielsen, foram implementadas interfaces simples e de fácil reconhecimento pelo usuário.
+**Requisitos associados** | RNF-003
+**Resultado esperado** | O usuário deve conseguir navegar de maneira simples, eficiente e intuitiva.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -230,6 +239,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT15 - CT15 - Utilizar o botão "Parabéns!" (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT16 - CT16 - Adequação da aplicação às heurísticas de Nielsen*                                        |
+|---|---|
+|Requisito Associado |RNF-003	A aplicação deve seguir o padrão das heurísticas de Nielsen.|
 |Link do vídeo do teste realizado: |  | 
 
 ## Avaliação dos Testes de Software
