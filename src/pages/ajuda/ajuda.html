@@ -156,35 +156,103 @@
 </div>        
 
 
-    <div class="container">
-      <div class="formulario">
-        <div class="row">
-            <div class="col-lg-12 text-left">
-                <h2>Precisa de ajuda?</h2>
-                <form action="processar_formulario" method="post">
-                    <label for="nome">Nome:</label>
-                    <input type="text" id="nome" name="nome" required><br>
-                    <label for="telefone">Telefone:</label>
-                    <input type="tel" id="telefone" name="telefone"><br>
-                    <label for="email">E-mail:</label>
-                    <input type="email" id="email" name="email" required><br>
-                    <label for="estado">Estado:</label>
-                    <input type="text" id="estado" name="estado" required><br>
-                    <label for="idade">Idade:</label>
-                    <input type="text" id="idade" name="idade"><br>
-                    <label for="duvida">Descreva sua dúvida:</label><br>
-                    <textarea id="duvida" name="duvida" rows="6" cols="100"></textarea><br>
-                    <button type="submit" class="btn" onclick='openP()'>Enviar</button>
-        <div class="popupdep" id="pop">
-          <h2> Ajuda Enviada! </h2>
-          <p> Tudo certo! Seu dúvida foi enviado com sucesso. Agradecemos por compartilhar sua experiência conosco. </p>
-          <button type="button" onclick='closeP()'> Fechar</button>
-        </div>
-                </form>
-            </div>
-        </div>
+<div class="container">
+  <div class="formulario">
+      <div class="row">
+          <div class="col-lg-12 text-left">
+              <h2>Precisa de ajuda?</h2>
+              <form id="helpForm">
+                  <label for="nome">Nome Completo:</label>
+                  <input type="text" id="nome" name="nome" required><br>
+                  <label for="telefone">Telefone:</label>
+                  <input type="tel" id="telefone" name="telefone"><br>
+                  <label for="email">E-mail:</label>
+                  <input type="email" id="email" name="email" required><br>
+                  <label for="estado">Estado:</label>
+                  <input type="text" id="estado" name="estado" required><br>
+                  <label for="idade">Idade:</label>
+                  <input type="text" id="idade" name="idade"><br>
+                  <label for="duvida">Descreva sua dúvida:</label><br>
+                  <textarea id="duvida" name="duvida" rows="6" cols="100"></textarea><br>
+                  <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" onclick="mostrarDepoimento()" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Enviar
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Ajuda</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <h4>Dúvida enviada com sucesso!</h4>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
       </div>
     </div>
+  </div>
+</div>
+              </form>
+          </div>
+      </div>
+  </div>
+  <div id="depoimentos" class="mt-4"></div>
+</div>
+
+
+<script>
+function mostrarDepoimento() {
+        const nome = document.getElementById('nome').value;
+        const telefone = document.getElementById('telefone').value;
+        const email = document.getElementById('email').value;
+        const estado = document.getElementById('estado').value;
+        const idade = document.getElementById('idade').value;
+        const duvida = document.getElementById('duvida').value;
+
+        const novaDuvida = {
+            nome: nome,
+            telefone: telefone,
+            email: email,
+            estado: estado,
+            idade: idade,
+            duvida: duvida
+        };
+        
+        let duvidas = JSON.parse(localStorage.getItem('duvidas')) || [];
+        duvidas.push(novaDuvida);
+        localStorage.setItem('duvidas', JSON.stringify(duvidas));
+        exibirDuvidas();
+        document.getElementById('helpForm').reset();
+    }
+
+    function exibirDuvidas() {
+        const depoimentoDiv = document.getElementById('depoimentos');
+        depoimentoDiv.innerHTML = '';
+        const duvidas = JSON.parse(localStorage.getItem('duvidas')) || [];
+        duvidas.forEach(duvida => {
+            const novoDepoimento = document.createElement('div');
+            novoDepoimento.classList.add('depoimento');
+            novoDepoimento.innerHTML = `
+                <h3>Dúvida de ${duvida.nome}</h3>
+                <p><strong>Telefone:</strong> ${duvida.telefone}</p>
+                <p><strong>E-mail:</strong> ${duvida.email}</p>
+                <p><strong>Estado:</strong> ${duvida.estado}</p>
+                <p><strong>Idade:</strong> ${duvida.idade}</p>
+                <p><strong>Dúvida:</strong> ${duvida.duvida}</p>
+                <hr>
+            `;
+            depoimentoDiv.appendChild(novoDepoimento);
+        });
+    }
+
+    function initPage() {
+        exibirDuvidas();
+    }
+</script>
 
     <script src="ajuda.js"></script>
 
