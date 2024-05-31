@@ -113,6 +113,37 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Respostas corretas e incorretas para várias pistas.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT12 - Acessar a página "Passeio Tecnológico"**
+ :--------------: | ------------
+**Procedimento**  | 1) Acesse a página inicial; <br> 2) Localize o card "Clube do Saber" descendo a página e o acesse; <br> 3) Na página do "Clube do Saber", localize o card "Passeio Tecnológico" ao final da página e o acesse.
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) A página "Clube do Saber" deve ser facilmente acessada a partir dos cards da página inicial; <br> 2) A página "Passeio Tecnológico" deve ser facilmente localizada na página "Clube do Saber"; <br> 3) Os cards de acesso às páginas mencionadas devem funcionar corretamente.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT13 - Acessar perguntas do quiz e responder corretamente (Passeio Tecnológico)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique em um dos círculos numerados; <br> 2) Selecione a resposta correta para a pergunta feita; <br> 3) Clique no botão "Enviar Resposta"; <br> 4) Clique no botão "OK" do pop up que aparecer.
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) Os círculos numerados devem responder ao clique, apresentando um pop up contendo uma pergunta e três opções de resposta; <br> 2) O botão "Enviar a Resposta" deve fazer com que a resposta correta seja submetida e retornar um pop up informando "Resposta correta! Avance para a próxima etapa!"; <br> 3) O botão "OK" do pop up que informa que a resposta está correta deve funcionar para fechar o pop up.
+**Dados de entrada** | Resposta correta.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT14 - Acessar perguntas do quiz e responder incorretamente (Passeio Tecnológico)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique em um dos círculos numerados; <br> 2) Selecione a resposta incorreta para a pergunta feita; <br> 3) Clique no botão "Enviar Resposta"; <br> 4) Clique no botão "OK" do pop up que aparecer.
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) Os círculos numerados devem responder ao clique, apresentando um pop up contendo uma pergunta e três opções de resposta; <br> 2) O botão "Enviar a Resposta" deve fazer com que a resposta incorreta seja submetida e retornar um pop up informando "Tente novamente"; <br> 3) O botão "OK" do pop up que orienta a tentar novamente deve funcionar para fechá-lo e manter a visualização do pop up contendo a pergunta e as três opções de resposta.
+**Dados de entrada** | Resposta incorreta.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT15 - Utilizar o botão "Parabéns!" (Passeio Tecnológico)**
+ :--------------: | ------------
+**Procedimento**  | 1) Clique no botão "Parabéns!" ao final da página "Passeio Tecnológico".
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) O clique no botão "Parabéns!" deverá retornar o usuário à página "Clube do Saber".
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
 
 ## Registro dos Testes de Software
 
@@ -181,7 +212,25 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
 |Link do vídeo do teste realizado: |  | 
 
+|*Caso de Teste*                                 |*CT12 - CT12 - Acessar a página "Passeio Tecnológico"*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
 
+|*Caso de Teste*                                 |*CT13 - CT13 - Acessar perguntas do quiz e responder corretamente (Passeio Tecnológico)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT14 - CT14 - Acessar perguntas do quiz e responder incorretamente (Passeio Tecnológico)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
+
+|*Caso de Teste*                                 |*CT15 - CT15 - Utilizar o botão "Parabéns!" (Passeio Tecnológico)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: |  | 
 
 ## Avaliação dos Testes de Software
 
