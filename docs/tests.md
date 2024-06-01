@@ -264,22 +264,22 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT12 - CT12 - Acessar a página "Passeio Tecnológico"*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/48e0668c-d0e2-4921-b523-93dff1ec3bbd | 
 
 |*Caso de Teste*                                 |*CT13 - CT13 - Acessar perguntas do quiz e responder corretamente (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/e40691d6-582f-4d2e-af73-8084340794e5 | 
 
 |*Caso de Teste*                                 |*CT14 - CT14 - Acessar perguntas do quiz e responder incorretamente (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/162225477/4d5336ba-2499-4f3f-bc82-7d61ad2d9c9d | 
 
 |*Caso de Teste*                                 |*CT15 - CT15 - Utilizar o botão "Parabéns!" (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/31d15dd2-4626-4396-9315-7b5afdd5ebb1 | 
 
 |*Caso de Teste*                                 |*CT16 - CT16 - Adequação da aplicação às heurísticas de Nielsen*                                        |
 |---|---|
@@ -302,12 +302,12 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT19 - Interação do Usuário com a Interface (Forca)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a |
+|Link do vídeo do teste realizado: |  |
 
 |*Caso de Teste*                                 |*CT20 - Interação do Usuário com a Interface (Ajuda)*                                        |
 |---|---|
 |Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
-|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a |
+|Link do vídeo do teste realizado: |  |
 
 
 ## Avaliação dos Testes de Software
