@@ -170,6 +170,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso. Não foi possível testar o site no navegador Safari.
 
+**Caso de Teste** | **CT19 - Interação do Usuário com a Interface (Forca)**
+ :--------------: | ------------
+**Procedimento**  | 1) Verificar funcionamento do corpo do enforcado de 0 a 6. <br> 2) Certificar funcionamento das teclas. <br> 3) Verificar funcionamento DO POP-UP de parabéns e perdeu.
+**Requisitos associados** | RNF-007
+**Resultado esperado** | 1) Certificar funcionamento DO POP-UP.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -275,6 +283,10 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Link do vídeo do teste realizado: | Microsoft Edge https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/15ee8e93-82b9-4c3b-8c00-83afc1f38a3c
 |Link do vídeo do teste realizado: | Safari  não foi possível o teste. | 
 
+|*Caso de Teste*                                 |*CT19 - Interação do Usuário com a Interface (Forca)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a |
 
 
 ## Avaliação dos Testes de Software
