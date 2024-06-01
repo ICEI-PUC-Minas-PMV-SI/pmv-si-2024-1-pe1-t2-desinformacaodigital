@@ -173,8 +173,16 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT19 - Interação do Usuário com a Interface (Forca)**
  :--------------: | ------------
 **Procedimento**  | 1) Verificar funcionamento do corpo do enforcado de 0 a 6. <br> 2) Certificar funcionamento das teclas. <br> 3) Verificar funcionamento DO POP-UP de parabéns e perdeu.
-**Requisitos associados** | RNF-007
+**Requisitos associados** | RF-007
 **Resultado esperado** | 1) Certificar funcionamento DO POP-UP.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT20 - Interação do Usuário com a Interface (Ajuda)**
+ :--------------: | ------------
+**Procedimento**  | 1) Certifcar funcionamento dos links das paginas adicionais de ajuda. <br> 2) Certificar funcionamento do formulario  <br> 3) Verificar funcionamento DO POP-UP de envio da dúvida.
+**Requisitos associados** | RF-011
+**Resultado esperado** | 1) Certificar funcionamento do formulário. <br> 2) Certificar funciomento das paginas. <br> 3) Certificar funcionamento DO POP-UP.
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
@@ -286,6 +294,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT19 - Interação do Usuário com a Interface (Forca)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a |
+
+|*Caso de Teste*                                 |*CT20 - Interação do Usuário com a Interface (Ajuda)*                                        |
+|---|---|
+|Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
 |Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a |
 
 
