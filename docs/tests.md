@@ -206,7 +206,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT02 - Verificar funcionamento dos botões de zoom*                                        |
 |---|---|
 |Requisito Associado |RF-012	A aplicação deve conter a ferramenta de lupa para controlar o zoom do site.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/162225477/ac36b24e-19e3-4bd7-be98-22dfc68b179e
+
+
+
+
 
 |*Caso de Teste*                                 |*CT03 - Verificar funcionamento do menu lateral (navegação rápida)*                                        |
 |---|---|
