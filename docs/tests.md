@@ -186,6 +186,14 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT21 - (Responsividade e adaptabilidade a qualquer interface)**
+ :--------------: | ------------
+**Procedimento**  | 1) Certifcar funcionamento da responsividade
+**Requisitos associados** | RNF-002
+**Resultado esperado** | 1) Teste responsividade e adaptabilidade a qualquer interface.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -309,6 +317,10 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
 |Link do vídeo do teste realizado: |  |
 
+|*Caso de Teste*                                 |CT21 - Responsividade e adaptabilidade a qualquer interface*|
+|---|---|
+|Requisito Associado |RNF-002	A aplicação deve ser responsiva e adaptável a qualquer interface.|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/20aaebb0-950e-4b0d-baef-29e6f79b975d |
 
 ## Avaliação dos Testes de Software
 
