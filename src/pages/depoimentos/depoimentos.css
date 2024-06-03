@@ -226,6 +226,13 @@ input[type="date"]{
   font-size: 35px;
 }
 
+#agreeTerms{
+  height: 30px;
+  border-radius: 6px;
+  color: white;
+  margin-top: 20px;
+}  
+
 body, html {
   height: 100%;
   margin: 0;

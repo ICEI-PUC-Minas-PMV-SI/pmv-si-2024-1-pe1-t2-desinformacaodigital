@@ -83,11 +83,17 @@
 
         <div class="form">
           <h1> Compartilhe seu Depoimento!</h1>
+          <form id="testForm">
           <h5>Nome:</h5>
-          <input type="text" id='name' required/> <br/>
+          <input type="text" id='name'/> <br/>
+    
+          <label for="agreeTerms"><h5 style="margin-left: -230px; margin-bottom: -40px;">Anônimo</h5></label>
+          <input type="checkbox" id="agreeTerms" style="margin-left: -186px; display:flex; margin-top: 10px;" />
+    
           <h5>Depoimento:</h5>
           <textarea rows="5" col="30" id="bodyText" required ></textarea><br/>
-          <input type="button" id="addComent" class="btn" onclick='openP()' value="Enviar depoimento"/>
+          
+          <input type="submit" id="addComent" class="btn" value="Enviar depoimento"/>
           <div class="popupdep" id="pop">
             <h2> Depoimento Enviado! </h2>
             <p> Agradecemos sinceramente por tirar um tempo para compartilhar seu depoimento conosco. Sua experiência é extremamente valiosa e nos ajuda a melhorar continuamente nossos serviços.  </p>
@@ -95,30 +101,7 @@
           </div>
         </div>
         
-        <div id="containercomment">
-          <div class='comentBox'>
-            <div class='leftPanelImg'><img src='../../../src/assets/icons/usuario-de-perfil.png'></div>
-            <h1> João da Silva </h1>
-            <p> Sempre tive dificuldade em lidar com tecnologia. As coisas digitais sempre me pareceram complicadas e intimidantes. Não me sinto confortável navegando na internet e, com frequência, me perco em menus e configurações. Até mesmo tarefas simples, como enviar um e-mail ou acessar um site, podem ser um desafio para mim.</p>
-          </div>
-            <div class='clear'></div>
-        </div> 
 
-    <!-- BOTÃO DE PAGINAÇÃO -->
-
-    <div class="botao">
-        <div class="paginacao">
-            <button class="bt1" onclick="anteriorBt()">Anterior</button>
-            <ul>
-                <li class="link active" value="1" onclick="activeLink()">1</li>
-                <li class="link" value="2" onclick="activeLink()">2</li>
-                <li class="link" value="3" onclick="activeLink()">3</li>
-                <li class="link" value="4" onclick="activeLink()">4</li>
-            </ul>
-            <button class="bt2" onclick="proximoBt()">Próximo</button>
-        </div>
-    </div>
-     
     <!-- BOTÕES INCLUSIVOS -->
   
     <div class="container-fluid">
