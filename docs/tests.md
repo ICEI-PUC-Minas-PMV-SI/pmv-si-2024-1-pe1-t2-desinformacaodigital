@@ -292,7 +292,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT16 - CT16 - Adequação da aplicação às heurísticas de Nielsen*                                        |
 |---|---|
 |Requisito Associado |RNF-003	A aplicação deve seguir o padrão das heurísticas de Nielsen.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://1drv.ms/b/s!Avu0qF3ahHqggoJTvnJfVWehY2Mnvw?e=Q2fBHf | 
 
 |*Caso de Teste*                                 |*CT17 -Feedback para ações *                                        |
 |---|---|
