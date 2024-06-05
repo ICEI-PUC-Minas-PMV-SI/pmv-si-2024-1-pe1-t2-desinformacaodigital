@@ -310,7 +310,7 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT19 - Interação do Usuário com a Interface (Forca)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  |
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!Avu0qF3ahHqggoJUS6zTEBvBdfZQIA?e=kDG1Zp |
 
 |*Caso de Teste*                                 |*CT20 - Interação do Usuário com a Interface (Ajuda)*                                        |
 |---|---|
