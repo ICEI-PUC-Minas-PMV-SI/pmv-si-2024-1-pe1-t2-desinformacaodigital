@@ -156,6 +156,7 @@
 </div>        
 
 
+
 <div class="container">
   <div class="formulario">
       <div class="row">
@@ -164,95 +165,94 @@
               <form id="helpForm">
                   <label for="nome">Nome Completo:</label>
                   <input type="text" id="nome" name="nome" required><br>
+                  <span class="error-message" id="nome-error"></span>
+
                   <label for="telefone">Telefone:</label>
-                  <input type="tel" id="telefone" name="telefone"><br>
+                  <input type="tel" id="telefone" name="telefone" pattern="\d*" required><br>
+                  <span class="error-message" id="telefone-error"></span>
+
                   <label for="email">E-mail:</label>
                   <input type="email" id="email" name="email" required><br>
+                  <span class="error-message" id="email-error"></span>
+
                   <label for="estado">Estado:</label>
                   <input type="text" id="estado" name="estado" required><br>
-                  <label for="idade">Idade:</label>
-                  <input type="text" id="idade" name="idade"><br>
-                  <label for="duvida">Descreva sua dúvida:</label><br>
-                  <textarea id="duvida" name="duvida" rows="6" cols="100"></textarea><br>
-                  <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" onclick="mostrarDepoimento()" data-bs-toggle="modal" data-bs-target="#exampleModal">
-  Enviar
-</button>
+                  <span class="error-message" id="estado-error"></span>
 
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel">Ajuda</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <h4>Dúvida enviada com sucesso!</h4>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
-      </div>
-    </div>
-  </div>
-</div>
+                  <label for="idade">Idade:</label>
+                  <input type="number" id="idade" name="idade" required><br>
+                  <span class="error-message" id="idade-error"></span>
+
+                  <label for="duvida">Descreva sua dúvida:</label><br>
+                  <textarea id="duvida" name="duvida" rows="6" cols="100" required></textarea><br>
+                  <span class="error-message" id="duvida-error"></span>
+
+                  <button onclick="mostrarDepoimento()" type="submit">Enviar</button>
               </form>
           </div>
       </div>
   </div>
-  <div id="depoimentos" class="mt-4"></div>
 </div>
 
+<style>
+  .error-message {
+      color: red;
+      font-size: 12px;
+  }
+</style>
 
 <script>
-function mostrarDepoimento() {
-        const nome = document.getElementById('nome').value;
-        const telefone = document.getElementById('telefone').value;
-        const email = document.getElementById('email').value;
-        const estado = document.getElementById('estado').value;
-        const idade = document.getElementById('idade').value;
-        const duvida = document.getElementById('duvida').value;
+  document.getElementById('helpForm').addEventListener('submit', function(event) {
+      let isValid = true;
 
-        const novaDuvida = {
-            nome: nome,
-            telefone: telefone,
-            email: email,
-            estado: estado,
-            idade: idade,
-            duvida: duvida
-        };
-        
-        let duvidas = JSON.parse(localStorage.getItem('duvidas')) || [];
-        duvidas.push(novaDuvida);
-        localStorage.setItem('duvidas', JSON.stringify(duvidas));
-        exibirDuvidas();
-        document.getElementById('helpForm').reset();
-    }
+      
+      document.querySelectorAll('.error-message').forEach(function(el) {
+          el.textContent = '';
+      });
 
-    function exibirDuvidas() {
-        const depoimentoDiv = document.getElementById('depoimentos');
-        depoimentoDiv.innerHTML = '';
-        const duvidas = JSON.parse(localStorage.getItem('duvidas')) || [];
-        duvidas.forEach(duvida => {
-            const novoDepoimento = document.createElement('div');
-            novoDepoimento.classList.add('depoimento');
-            novoDepoimento.innerHTML = `
-                <h3>Dúvida de ${duvida.nome}</h3>
-                <p><strong>Telefone:</strong> ${duvida.telefone}</p>
-                <p><strong>E-mail:</strong> ${duvida.email}</p>
-                <p><strong>Estado:</strong> ${duvida.estado}</p>
-                <p><strong>Idade:</strong> ${duvida.idade}</p>
-                <p><strong>Dúvida:</strong> ${duvida.duvida}</p>
-                <hr>
-            `;
-            depoimentoDiv.appendChild(novoDepoimento);
-        });
-    }
+      
+      if (!document.getElementById('nome').value.trim()) {
+          document.getElementById('nome-error').textContent = 'O campo Nome Completo é obrigatório.';
+          isValid = false;
+      }
+      if (!document.getElementById('telefone').value.trim()) {
+          document.getElementById('telefone-error').textContent = 'O campo Telefone é obrigatório.';
+          isValid = false;
+      }
+      if (!document.getElementById('email').value.trim()) {
+          document.getElementById('email-error').textContent = 'O campo E-mail é obrigatório.';
+          isValid = false;
+      }
+      if (!document.getElementById('estado').value.trim()) {
+          document.getElementById('estado-error').textContent = 'O campo Estado é obrigatório.';
+          isValid = false;
+      }
+      if (!document.getElementById('idade').value.trim()) {
+          document.getElementById('idade-error').textContent = 'O campo Idade é obrigatório.';
+          isValid = false;
+      }
+      if (!document.getElementById('duvida').value.trim()) {
+          document.getElementById('duvida-error').textContent = 'O campo Descreva sua dúvida é obrigatório.';
+          isValid = false;
+      }
 
-    function initPage() {
-        exibirDuvidas();
-    }
+      if (!isValid) {
+          event.preventDefault();
+      } else {
+          alert('Dúvida enviada com sucesso!');
+      }
+  });
+
+  
+  document.getElementById('telefone').addEventListener('input', function () {
+      this.value = this.value.replace(/\D/g, '');
+  });
+
+  document.getElementById('idade').addEventListener('input', function () {
+      this.value = this.value.replace(/\D/g, '');
+  });
 </script>
+
 
     <script src="ajuda.js"></script>
 

@@ -145,6 +145,55 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+
+**Caso de Teste** | **CT16 - Adequação da aplicação às heurísticas de Nielsen**
+ :--------------: | ------------
+**Procedimento**  | 1) Acesse as páginas da aplicação.<br> 2) De acordo com as heurísticas de Nielsen, foram implementadas interfaces simples e de fácil reconhecimento pelo usuário.
+**Requisitos associados** | RNF-003
+**Resultado esperado** | O usuário deve conseguir navegar de maneira simples, eficiente e intuitiva.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT17 - Feedback para ações**
+ :--------------: | ------------
+**Procedimento**  | 1) Abrir os pop-ups de retorno de ação do usuário nas páginas dinâmicas.
+**Requisitos associados** | RNF-007
+**Resultado esperado** | 1) E xibição correta do retorno das ações.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT18 - Compatibilidade em navegadores: Chrome, Firefox, Edge e Safari**
+ :--------------: | ------------
+**Procedimento**  | 1) Certificar funcionamento e carregamento das páginas nos navegadores.
+**Requisitos associados** | RNF-004
+**Resultado esperado** | 1) Exibição correta das páginas.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso. Não foi possível testar o site no navegador Safari.
+
+**Caso de Teste** | **CT19 - Interação do Usuário com a Interface (Forca)**
+ :--------------: | ------------
+**Procedimento**  | 1) Verificar funcionamento do corpo do enforcado de 0 a 6. <br> 2) Certificar funcionamento das teclas. <br> 3) Verificar funcionamento DO POP-UP de parabéns e perdeu.
+**Requisitos associados** | RF-007
+**Resultado esperado** | 1) Certificar funcionamento DO POP-UP.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT20 - Interação do Usuário com a Interface (Ajuda)**
+ :--------------: | ------------
+**Procedimento**  | 1) Certifcar funcionamento dos links das paginas adicionais de ajuda. <br> 2) Certificar funcionamento do formulario  <br> 3) Verificar funcionamento DO POP-UP de envio da dúvida.
+**Requisitos associados** | RF-011
+**Resultado esperado** | 1) Certificar funcionamento do formulário. <br> 2) Certificar funciomento das paginas. <br> 3) Certificar funcionamento DO POP-UP.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT21 - (Responsividade e adaptabilidade a qualquer interface)**
+ :--------------: | ------------
+**Procedimento**  | 1) Certifcar funcionamento da responsividade
+**Requisitos associados** | RNF-002
+**Resultado esperado** | 1) Teste responsividade e adaptabilidade a qualquer interface.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -165,72 +214,113 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT02 - Verificar funcionamento dos botões de zoom*                                        |
 |---|---|
 |Requisito Associado |RF-012	A aplicação deve conter a ferramenta de lupa para controlar o zoom do site.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/162225477/ac36b24e-19e3-4bd7-be98-22dfc68b179e
+
+
+
+
 
 |*Caso de Teste*                                 |*CT03 - Verificar funcionamento do menu lateral (navegação rápida)*                                        |
 |---|---|
 |Requisito Associado |RF-008	A aplicação deve conter uma ferramenta de pesquisa onde serão listados interesses pré-definidos com base no público-alvo.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/162225477/d855a037-2625-4fce-9808-afdb7b05ce74 
+
+
+
+
 
 |*Caso de Teste*                                 |*CT04 - CT04 - Envio de depoimento (Identificado)*                                        |
 |---|---|
 |Requisito Associado |RF-005 A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a77d8af6-8515-4d23-9f34-1872fff59d94 | 
 
 |*Caso de Teste*                                 |*CT05 - CT05 - Envio de depoimento (Anônimo)*                                        |
 |---|---|
 |Requisito Associado |RF-005	A aplicação deve disponibilizar a página “Depoimentos” onde o usuário poderá informar seu nome ou comentar de forma anônima em forma de depoimento.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a77d8af6-8515-4d23-9f34-1872fff59d94 | 
 
 |*Caso de Teste*                                 |*CT06 - CT06 - Visualização de depoimentos enviados*                                        |
 |---|---|
 |Requisito Associado |RF-006	A aplicação deve permitir que o usuário possa visualizar comentários de outros usuários.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a77d8af6-8515-4d23-9f34-1872fff59d94 | 
 
 |*Caso de Teste*                                 |*CT07 - CT07 - Responder uma Palavra Corretamente (Palavras Cruzadas)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3b6ef87c-3731-4ecf-ab64-1ce1acac62ac | 
 
 |*Caso de Teste*                                 |*CT08 - CT08 - Responder uma Palavra Incorretamente (Palavras Cruzadas)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3b6ef87c-3731-4ecf-ab64-1ce1acac62ac | 
 
 |*Caso de Teste*                                 |*CT09 - CT09 - Utilizar o Botão "Apagar (Palavras Cruzadas)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: |https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3b6ef87c-3731-4ecf-ab64-1ce1acac62ac  | 
 
 |*Caso de Teste*                                 |*CT10 - CT10 - Utilizar o Botão "Solução (Palavras Cruzadas)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3b6ef87c-3731-4ecf-ab64-1ce1acac62ac | 
 
 |*Caso de Teste*                                 |*CT11 - CT11 - Interação do Usuário com a Interface (Palavras Cruzadas)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3b6ef87c-3731-4ecf-ab64-1ce1acac62ac | 
 
 |*Caso de Teste*                                 |*CT12 - CT12 - Acessar a página "Passeio Tecnológico"*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/48e0668c-d0e2-4921-b523-93dff1ec3bbd | 
 
 |*Caso de Teste*                                 |*CT13 - CT13 - Acessar perguntas do quiz e responder corretamente (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/e40691d6-582f-4d2e-af73-8084340794e5 | 
 
 |*Caso de Teste*                                 |*CT14 - CT14 - Acessar perguntas do quiz e responder incorretamente (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/162225477/4d5336ba-2499-4f3f-bc82-7d61ad2d9c9d | 
 
 |*Caso de Teste*                                 |*CT15 - CT15 - Utilizar o botão "Parabéns!" (Passeio Tecnológico)*                                        |
 |---|---|
 |Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
-|Link do vídeo do teste realizado: |  | 
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/31d15dd2-4626-4396-9315-7b5afdd5ebb1 | 
+
+|*Caso de Teste*                                 |*CT16 - CT16 - Adequação da aplicação às heurísticas de Nielsen*                                        |
+|---|---|
+|Requisito Associado |RNF-003	A aplicação deve seguir o padrão das heurísticas de Nielsen.|
+|Link do vídeo do teste realizado: | https://1drv.ms/b/s!Avu0qF3ahHqggoJTvnJfVWehY2Mnvw?e=Q2fBHf | 
+
+|*Caso de Teste*                                 |*CT17 -Feedback para ações *                                        |
+|---|---|
+|Requisito Associado |RNF-007	A aplicação deve apresentar um feedback para ações do usuário como confirmações de envio e mensagens de erro|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/eda601d7-8cd3-4211-9476-53af04008b8a | 
+
+|*Caso de Teste*                                 |*CT18 - Compatibilidade em navegadores: Chrome, Firefox, Edge e Safari*                                        |
+|---|---|
+|Requisito Associado |RNF-004	A aplicação deve ser capaz de ser executado nas versões recentes dos navegadores mais utilizados: Chrome, Firefox, Edge e Safari.|
+|Link do vídeo do teste realizado: | Google Chrome https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/8a534508-f848-47b3-8981-29a9b34525e1 
+|Link do vídeo do teste realizado: | Mozilla Firefox  https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/3a74c2d7-a80b-4326-8851-52f16ef7b986
+|Link do vídeo do teste realizado: | Microsoft Edge https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/15ee8e93-82b9-4c3b-8c00-83afc1f38a3c
+|Link do vídeo do teste realizado: | Safari  não foi possível o teste. | 
+
+|*Caso de Teste*                                 |*CT19 - Interação do Usuário com a Interface (Forca)*                                        |
+|---|---|
+|Requisito Associado |RF-007	A aplicação deve conter a página “Clube do Saber: Diversão e Aprendizagem para a Terceira Idade” a qual haverá três jogos: Forca, palavras cruzadas e um Passeio Tecnológico em que o usuário terá perguntas baseadas na página "introdução tecnológica" sobre o funcionamento de aparelhos digitais, a internet, e golpes em formato de quiz.|
+|Link do vídeo do teste realizado: | https://1drv.ms/v/s!Avu0qF3ahHqggoJUS6zTEBvBdfZQIA?e=kDG1Zp |
+
+|*Caso de Teste*                                 |*CT20 - Interação do Usuário com a Interface (Ajuda)*                                        |
+|---|---|
+|Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
+|Link do vídeo do teste realizado: |  |
+
+|*Caso de Teste*                                 |CT21 - Responsividade e adaptabilidade a qualquer interface*|
+|---|---|
+|Requisito Associado |RNF-002	A aplicação deve ser responsiva e adaptável a qualquer interface.|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/20aaebb0-950e-4b0d-baef-29e6f79b975d |
 
 ## Avaliação dos Testes de Software
 
