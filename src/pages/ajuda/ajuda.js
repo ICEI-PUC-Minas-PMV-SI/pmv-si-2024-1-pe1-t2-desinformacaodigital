@@ -13,10 +13,7 @@ function mostrarDepoimento() {
     const idade = document.getElementById('idade').value;
     const duvida = document.getElementById('duvida').value;
     
-    if (!nome || !telefone || !email || !estado || !idade || !duvida) {
-        alert('Por favor, preencha todos os campos.');
-        return;
-    }
+    
 
     const novaDuvida = {
         nome: nome,
@@ -34,7 +31,7 @@ function mostrarDepoimento() {
     exibirDuvidas();
     document.getElementById('helpForm').reset();
     
-    // Exibir o pop-up de sucesso após o armazenamento da dúvida
+    
     openP();
 }
 

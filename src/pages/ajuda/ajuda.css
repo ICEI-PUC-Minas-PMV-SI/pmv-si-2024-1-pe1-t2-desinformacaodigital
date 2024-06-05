@@ -310,4 +310,7 @@ footer p{
 }
 
 
-  
+  .erro-message{
+    color: red;
+    font-size: 12px;
+  }
