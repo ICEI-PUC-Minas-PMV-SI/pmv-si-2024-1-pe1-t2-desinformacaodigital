@@ -55,10 +55,13 @@ const overlay = document.querySelector('.overlay');
 function openP() {
     popupdep.classList.add('open');
     overlay.classList.add('open');
+    overlay.style.display = 'block';
 }
 
 function closeP() {
     popupdep.classList.remove('open');
     overlay.classList.remove('open');
+    overlay.style.display = 'none';
 }
+
 
