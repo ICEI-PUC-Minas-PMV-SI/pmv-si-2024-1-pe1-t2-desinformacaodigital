@@ -180,10 +180,10 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 **Caso de Teste** | **CT20 - Interação do Usuário com a Interface (Ajuda)**
  :--------------: | ------------
-**Procedimento**  | 1) Certifcar funcionamento dos links das paginas adicionais de ajuda. <br> 2) Certificar funcionamento do formulario  <br> 3) Verificar funcionamento DO POP-UP de envio da dúvida.
+**Procedimento**  | 1)Acessar a pagina de ajuda. <br> 2)Preencher os campos do formulário. <br> 3)Certifcar funcionamento dos links das paginas adicionais de ajuda. <br> 4) Certificar funcionamento do formulario  <br> 5) Verificar funcionamento do POP-UP de envio da dúvida.
 **Requisitos associados** | RF-011
-**Resultado esperado** | 1) Certificar funcionamento do formulário. <br> 2) Certificar funciomento das paginas. <br> 3) Certificar funcionamento DO POP-UP.
-**Dados de entrada** | Nenhum.
+**Resultado esperado** | 1) Duvida enviada.
+**Dados de entrada** | 1)Nome. <br> 3)Dúvida
 **Resultado obtido** | Sucesso.
 
 **Caso de Teste** | **CT21 - (Responsividade e adaptabilidade a qualquer interface)**
