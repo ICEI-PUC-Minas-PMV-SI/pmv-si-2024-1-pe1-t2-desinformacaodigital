@@ -361,43 +361,101 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
-
-
+| 1             | Você quer saber mais sobre os tipos comuns de golpes praticados online e como evitá-los. Utilize a página "Como identificar um Golpe?" para acessar dicas e sinais de alerta que ajudem a proteger-se contra fraudes na internet.  |
+| 2             | Você recebeu uma notícia via aplicativo de mensagens e deseja verificar se ela é verdadeira ou falsa. Então você deve utilizar a página "Real ou Falso?" e buscar uma seção ou ferramenta que esclareça a notícia recebida. |
+| 3             | Você está interessado em leis digitais e como elas afetam sua segurança online. Utilize a página "Leis Digitais" para acessar recursos sobre legislação e proteção na internet.  |
+| 4             | Você deseja encontrar ajuda ou possui alguma dúvida, na qual você não encontrou no site. Utilize a página "Ajuda" para encaminhar suas dúvidas e/ou encontrar instituições de apoio.  |
+| 5             | Você quer aprender o básico sobre o uso do computador e como resolver problemas simples. Utilize a página "Introdução Tecnológica" para encontrar tutoriais ou guias com uma linguagem simples e instruções claras.  |
+| 6             | Você quer explorar jogos interativos para testar seus conhecimentos adquiridos sobre tecnologia e segurança digital aprendida no site. Utilize a página "CLUBE DO SABER" para jogar Passeio Tecnológico.  |
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você quer saber mais sobre os tipos comuns de golpes praticados online e como evitá-los. Utilize a página "Como identificar um Golpe?" para acessar dicas e sinais de alerta que ajudem a proteger-se contra fraudes na internet. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1 (idade / dispositivo)     | SIM             | 5                    | 27.87 segundos                  |
-| 2 (idade / dispositivo)      | SIM             | 5                    | 17.11 segundos                  |
+| 1 ( 60 / Dispositivo celular )   | SIM  | 3 | 180.27 segundos                  |
+| 2 (idade / dispositivo)    |    |   |                   |
 |  |  |  |  |
-| **Média**     | 100%           | 5                | 28.02 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     |       |                 |                           |
+| **Tempo para conclusão pelo especialista** | SIM | 4 | 33.31 segundos |
 
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
+    Comentários dos usuários: Usuário 1:Informações dos golpes foram claras e compreensivas. 
+    Pode haver melhoria na navegação da página para ser mais breve, pois acabei gastando mais tempo com dificuldade por estar utilizando a página em dispositivo celular.
 
-
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Você recebeu uma notícia via aplicativo de mensagens e deseja verificar se ela é verdadeira ou falsa. Então você deve utilizar a página "Real ou Falso?" e buscar uma seção ou ferramenta que esclareça a notícia recebida. 
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 4                    | 36.21 segundos                          |
+| 1 ( 60 / Dispositivo celular ) | SIM       | 5   | 69.06 segundos              |
+| 2       |             |                     |                           |                      |
 |  |  |  |  |
-| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
+| **Média**     |           |                 |                            |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.95 segundos |
 
 
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Comentários dos usuários: As informações foram claras, me passou confiabilidade e segurança ao me indicar sites confiáveis para consulta da notícia. 
+    Página objetiva!
+
+Cenário 3: Você está interessado em leis digitais e como elas afetam sua segurança online. Utilize a página "Leis Digitais" para acessar recursos sobre legislação e proteção na internet.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1  ( 60 / Dispositivo celular )     | SIM    | 5 | 68.39 segundos                 |
+| 2       |              |                     |                           |
+|  |  |  |  |
+| **Média**     |           |                 |                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 29.35 segundos |
+
+
+    Comentários dos usuários: Conteúdo da página interessante, simples e de fácil acesso.
+    
+Cenário 4: Você deseja encontrar ajuda ou possui alguma dúvida, na qual você não encontrou no site. Utilize a página "Ajuda" para encaminhar suas dúvidas e/ou encontrar instituições de apoio. 
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 144.71 segundos                          |
+| 2       |              |                     |                           |
+|  |  |  |  |
+| **Média**     |            |                 |                            |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 48.63 segundos |
+
+
+    Comentários dos usuários: Página muito bem estruturada e dinâmica. 
+    Poderia ser mais breve do tempo gasto, devido a quantidade de informações solicitadas, gastei mais tempo preenchendo.
+ 
+    
+Cenário 5: Você quer aprender o básico sobre o uso do computador e como resolver problemas simples. Utilize a página "Introdução Tecnológica" para encontrar tutoriais ou guias com uma linguagem simples e instruções claras. 
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 82.35 segundos                          |
+| 2       |              |                     |                           |
+|  |  |  |  |
+| **Média**     |           |                 |                         |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 33.51 segundos |
+
+
+    Comentários dos usuários: Dicas e tutoriais muito interessante e importantes. 
+    Dificuldade visual de início, porém usando o zoom consegui ler direitinho.
+    Muito bem organizado e estruturado, de forma clara e sugestiva.
+    
+Cenário 6: Você quer explorar jogos interativos para testar seus conhecimentos adquiridos sobre tecnologia e segurança digital aprendida no site. Utilize a página "CLUBE DO SABER" para jogar Passeio Tecnológico. 
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 167.95 segundos                          |
+| 2       |             |                     |                          |
+|  |  |  |  |
+| **Média**     |           |                 |                            |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 74.97 segundos |
+
+
+    Comentários dos usuários: Ajuda entreter e ao mesmo tempo gera conhecimento sobre a tecnologia e os cuidados com as desinformações de hoje no mundo. 
+    Bem organizado. 
+    Interessante. 
+    Espetacular a página!
 
 ## Avaliação dos Testes de Usabilidade
 
