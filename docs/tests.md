@@ -375,7 +375,7 @@ Cenário 1: Você quer saber mais sobre os tipos comuns de golpes praticados onl
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1 ( 60 / Dispositivo celular )   | SIM  | 3 | 180.27 segundos                  |
-| 2 (idade / dispositivo)    |    |   |                   |
+| 2 ( 80 / Desktop)    | SIM    | 5 | 98.32 segundos             |
 |  |  |  |  |
 | **Média**     |       |                 |                           |
 | **Tempo para conclusão pelo especialista** | SIM | 4 | 33.31 segundos |
@@ -389,7 +389,7 @@ Cenário 2: Você recebeu uma notícia via aplicativo de mensagens e deseja veri
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1 ( 60 / Dispositivo celular ) | SIM       | 5   | 69.06 segundos              |
-| 2       |             |                     |                           |                      |
+| 2 ( 80 / Desktop ) | SIM           |   5                  |                           |   77.14 segundos                   |
 |  |  |  |  |
 | **Média**     |           |                 |                            |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 13.95 segundos |
@@ -403,7 +403,7 @@ Cenário 3: Você está interessado em leis digitais e como elas afetam sua segu
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1  ( 60 / Dispositivo celular )     | SIM    | 5 | 68.39 segundos                 |
-| 2       |              |                     |                           |
+| 2  ( 80 / Desktop )     | SIM          | 5                    |                           | 64.85 segundos
 |  |  |  |  |
 | **Média**     |           |                 |                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 29.35 segundos |
@@ -416,7 +416,7 @@ Cenário 4: Você deseja encontrar ajuda ou possui alguma dúvida, na qual você
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 144.71 segundos                          |
-| 2       |              |                     |                           |
+| 2   ( 80 / Desktop )    | SIM           |  5                   |                           | 219.71 segundos 
 |  |  |  |  |
 | **Média**     |            |                 |                            |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 48.63 segundos |
@@ -431,7 +431,7 @@ Cenário 5: Você quer aprender o básico sobre o uso do computador e como resol
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 82.35 segundos                          |
-| 2       |              |                     |                           |
+| 2   ( 80 / Desktop )    | SIM           |  5                   |                           | 95.79 segundos 
 |  |  |  |  |
 | **Média**     |           |                 |                         |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 33.51 segundos |
@@ -446,7 +446,7 @@ Cenário 6: Você quer explorar jogos interativos para testar seus conhecimentos
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1   ( 60 / Dispositivo celular )    | SIM             | 5                    | 167.95 segundos                          |
-| 2       |             |                     |                          |
+| 2  ( 80 / Desktop )    | SIM           |                     | 5                         | 233.20 segundos
 |  |  |  |  |
 | **Média**     |           |                 |                            |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 74.97 segundos |
