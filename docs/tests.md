@@ -209,7 +209,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-009	A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.
 |Requisito Associado | RF-010	A aplicação deve conter a página “Ajuda” com acesso a links de sites para ajudar a indentificar tipos de golpes.
 |Requisito Associado | RF-013	A aplicação deve conter a página "introdução tecnológica", a qual irá conter informações breves sobre as tecnologias até os tempos de hoje e dicas sobre o uso do computador.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar |  
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6256d408-c2ea-4c60-bc5c-de24dffc2763 | 
+
+
+
+ 
 
 |*Caso de Teste*                                 |*CT02 - Verificar funcionamento dos botões de zoom*                                        |
 |---|---|
@@ -315,7 +319,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |*Caso de Teste*                                 |*CT20 - Interação do Usuário com a Interface (Ajuda)*                                        |
 |---|---|
 |Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
-|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/91d890c4-1d92-4201-b8aa-cddbc4982983 |
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/46b31348-9e86-497e-b35c-fc7493652c95 |
+
+
+
+
 
 |*Caso de Teste*                                 |CT21 - Responsividade e adaptabilidade a qualquer interface*|
 |---|---|
