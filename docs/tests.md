@@ -459,13 +459,29 @@ Cenário 6: Você quer explorar jogos interativos para testar seus conhecimentos
 
 ## Avaliação dos Testes de Usabilidade
 
-Tomando como base os resultados obtidos, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que os cenários propostos foram concluídos com sucesso.
+Tomando como base os resultados obtidos dos seis cenários avaliados, foi possível verificar que a aplicação web apresenta bons resultados quanto à taxa de sucesso na interação dos usuários, tendo em vista que todos os cenários propostos foram concluídos com sucesso.
 
-Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova são as médias das avaliações em cada um dos cenários, que variou entre 4 (bom) e 5 (ótimo).
+Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos usuários no momento que realizavam os cenários propostos. Prova disso são as médias das avaliações em cada um dos cenários, que variaram entre 4 (bom) e 5 (ótimo), demonstrando que os usuários ficaram amplamente satisfeitos com a experiência proporcionada.
 
-Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
+Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepâncias entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
-Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
+Contudo, tendo em vista que a diferença foi relevante (por exemplo, 139.29 segundos — média dos usuários — contra 33.31 segundos — especialista — no cenário um), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade. Em particular, a navegação em dispositivos móveis parece ser um ponto de atenção, pois alguns usuários relataram dificuldades adicionais e tempos de conclusão mais longos ao utilizarem smartphones.
+
+A seguir, alguns pontos destacados pelos usuários em seus comentários:
+
+Cenário 1: "Como identificar um Golpe?": Informações claras e compreensivas.
+
+Cenário 2: "Real ou Falso?": Página objetiva e informações claras, transmitindo confiança e segurança.
+
+Cenário 3: "Leis Digitais": Conteúdo interessante e de fácil acesso, bem estruturado.
+
+Cenário 4: "Ajuda": Página dinâmica e bem estruturada.
+
+Cenário 5: "Introdução Tecnológica": Dicas e tutoriais claros e organizados.
+
+Cenário 6: "CLUBE DO SABER": Página interessante e educativa e divertida.
+
+Com base nesses resultados e comentários, o site demonstra um bom desempenho em termos de usabilidade, mas ainda existem áreas a serem aprimoradas, especialmente na eficiência de navegação e na adaptação para dispositivos móveis. Ao focar nessas melhorias, a experiência do usuário pode ser ainda mais otimizada, garantindo uma interação mais rápida e intuitiva.
 
 
 
