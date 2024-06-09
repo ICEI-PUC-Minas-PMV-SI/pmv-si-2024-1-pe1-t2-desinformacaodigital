@@ -192,6 +192,15 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Nenhum.
 **Resultado obtido** | Sucesso.
 
+**Caso de Teste** | **CT22 -  Ajuste na responsividade da pagina (Como Indentificar um Golpe)**
+ :--------------: | ------------
+**Procedimento**  | 1) Certifcar funcionamento da responsividade
+**Requisitos associados** | RF-009
+**Resultado esperado** | 1) Teste responsividade  a qualquer interface.
+**Dados de entrada** | Nenhum.
+**Resultado obtido** | Sucesso.
+
+
 ## Registro dos Testes de Software
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
@@ -319,14 +328,15 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado |RF-011	Dentro da página “Ajuda” haverá o campo de comentário “precisa de ajuda?”, no qual o usuário poderá mandar uma demanda privada. Será necessário inserir um e-mail, telefone e endereço para contato. A solicitação será enviada a uma conta de e-mail própria da aplicação em que um voluntário do projeto poderá entrar em contato com o usuário para prestar apoio e esclarecer dúvidas.|
 |Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/46b31348-9e86-497e-b35c-fc7493652c95 |
 
-
-
-
-
 |*Caso de Teste*                                 |CT21 - Responsividade e adaptabilidade a qualquer interface*|
 |---|---|
 |Requisito Associado |RNF-002	A aplicação deve ser responsiva e adaptável a qualquer interface.|
 |Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/20aaebb0-950e-4b0d-baef-29e6f79b975d |
+
+|*Caso de Teste*                                 |CT22 - Ajuste na responsividade da pagina (Como Indentificar um Golpe)*|
+|---|---|
+|Requisito Associado |RF-009	A aplicação deve conter a página “Como identificar um golpe” a qual o usuário aprenderá a identificar os tipos de golpes digitais e como se prevenir de perigos online.|
+|Link do vídeo do teste realizado: | https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/35d6f88d-ad86-4c77-979d-d26c9f958bc3 |
 
 ## Avaliação dos Testes de Software
 
