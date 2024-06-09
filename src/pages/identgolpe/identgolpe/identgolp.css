@@ -187,7 +187,7 @@ max-width: 300px !important;
         z-index: 1000; 
         flex-direction: column; 
         gap: 0; 
-        margin-top: 4cm  ;
+        margin-top: 3cm  ;
     }
     .spacer {
         width: 100px; 
@@ -321,3 +321,19 @@ max-width: 300px !important;
 
  
  
+.image-container {
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.responsive-image {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    max-width: 1120px;
+    display: block;
+    margin: 0 auto; 
+}
+
+
+
