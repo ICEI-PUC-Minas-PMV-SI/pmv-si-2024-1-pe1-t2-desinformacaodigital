@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-Acesse o site em 
+Acesse o site em  (https://icei-puc-minas-pmv-si.github.io/pmv-si-2024-1-pe1-t2-desinformacaodigital/)
 
 ## Histórico de versões
 
