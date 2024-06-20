@@ -1,8 +1,7 @@
 # Apresentação
+Nesta seção, demonstramos o funcionamento do site InfoClube. Inicialmente, apresentamos um modelo piloto da aplicação, no qual a identidade visual e o design das páginas ainda estavam em desenvolvimento.
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
-
-Liste os arquivos produzidos e postados nesta pasta, com suas localizaçãoes e descrição do conteúdo neste arquivo Readme.md.
+Ao final, destacamos os objetivos do site, os problemas resolvidos, a nova identidade visual e o funcionamento por meio de um vídeo.
 
 
 * [Pitch inicial](./sample-pitch.pdf) -- arquivo com os slides da apresentação inicial
@@ -12,10 +11,10 @@ Liste os arquivos produzidos e postados nesta pasta, com suas localizaçãoes e 
 O conjunto de slides deve ser apresentado em um arquivo PowerPoint ou PDF. A apresentação do projeto deve contemplar todos os itens trabalhados nos demais artefatos. Alguns aspectos que devem ser contemplados na apresentação são listados a seguir.
 
 ## Título do Projeto
-
-Nome e marca do projeto
-
+InfoClube
 ## Identidade Visual (Marca, Design)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/55b56a7a-1aa4-4b25-ba23-27b15ed7e0cc)
+
 
 O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
 
