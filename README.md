@@ -6,8 +6,9 @@
 
 `SEMESTRE: 1º`
 
-![logo_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/7276ba05-6aaf-47a6-be93-d2aeb712d827)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/bdd41641-4f4e-4343-a4e4-af0af03cdf39)
 
+<p>
 Uma ferramenta educativa para capacitar idosos e grupos vulneráveis a navegar com segurança na internet, identificar desinformação e proteger-se contra golpes online. Busca promover uma sociedade mais informada e engajada, enfrentando o analfabetismo digital e os desafios da era digital.
 
 ## Integrantes
@@ -40,3 +41,8 @@ Uma ferramenta educativa para capacitar idosos e grupos vulneráveis a navegar c
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+# Link da aplicação 
+
+<li><a href="https://icei-puc-minas-pmv-si.github.io/pmv-si-2024-1-pe1-t2-desinformacaodigital/"> InfoClube</a></li>
+
