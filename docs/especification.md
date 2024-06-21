@@ -59,13 +59,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Alessandra          | Encontrar plataforma que traga esclarecimentos sobre o uso de tecnologias e inovações, utilizando recursos inclusivos para quem possui baixa acuidade visual | Indicar a plataforma para sua mãe, que é acometida por baixa acuidade visual e busca autonomia em suas pesquisas |
 |José Honorino      | Encontrar plataforma instrucional fácil de utilizar e com linguagem simples | Aprender a utilizar o computador e a internet, bem como a resolver pequenos problemas que possam surgir durante o uso |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -130,7 +123,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |08| A comunicação entre o usuário e os desenvolvedores deverá ocorrer de forma externa à aplicação (e-mail ou telefone).                    |
 |09| A aplicação não permitirá criar perfis de usuários "login" a partir da entrega dos dados dos usuários.                            |
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
->
