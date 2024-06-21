@@ -5,45 +5,19 @@ Nesse contexto, buscamos entregar uma aplicação acessível que dê visibilidad
 
 ## Personas
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/0a14e27f-fdf4-45ed-ae2b-cc84385d97ee)
-
-Meu nome é João Carlos, tenho 52 anos. Sou professor de matemática do ensino médio e costumo receber muitas notícias em aplicativos de mensagem e redes sociais das quais participo. Apesar de ter certa familiaridade com tecnologias e meios de comunicação, as notícias que recebo por mensagem acabam me impactando e gerando inquietação. Por isto, gostaria de encontrar um canal independente e imparcial que indicasse se as notícias que recebo são verdadeiras.
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/a14b4792-a80b-4d56-8d1c-e0d60424dd49)
 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/ccdf3377-9962-4e2c-8187-fec8bc34b58d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/5e24ae25-c7e1-4b65-88f2-b90c62aef9bc)
 
-Meu nome é Maria Auxiliadora, tenho 68 anos. Sou decoradora aposentada e tenho pouca intimidade com redes sociais e novas tecnologias. Recentemente uma amiga foi vítima do golpe do falso boleto bancário, e por isto hoje eu tenho medo de aderir a novidades como o PIX e acabar sendo vítima de um golpe também. Procuro um meio para me informar sobre os golpes que vêm sendo aplicados, como identificá-los e evitá-los, bem como orientações para aprender a utilizar as inovações e tecnologias recentes de maneira segura. 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/48b83b8c-4da5-4e37-84ff-051e238de35a)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/b3bf0829-6195-43fc-8b9f-fed482599183)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/6181ebc5-e4ba-4c9a-90ce-56933286e6e6)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/31dfef97-1a8a-4177-8cd0-8ccd197fe119)
-
-Meu nome é Célia, tenho 64 anos. Sou psicóloga e sempre gostei de utilizar as facilidades que a tecnologia traz. Porém, diante da sofisticação dos golpes que vêm sendo praticados na internet, tenho me sentido insegura para realizar compras online com cartão de crédito. A título de exemplo, recentemente encontrei um livro de psicologia em uma loja virtual por um preço muito mais acessível do que em lojas físicas, mas tive receio de adquirir pois tinha que inserir meus dados bancários no site. Gostaria de encontrar uma plataforma que me auxiliasse a identificar a confiabilidade de lojas virtuais e a evitar sites suspeitos. 
-
-
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/0b127a7f-7c3d-440b-98d8-fb4a62a7bc7b)
-
-
-
-
-Meu nome é Beatriz, tenho 46 anos. Sempre trabalhei como cuidadora de idosos, mas venho tentando obter minha aposentadoria por invalidez, uma vez que, há alguns meses, fui diagnosticada com fibromialgia. Quando recebi meu diagnóstico e comecei a buscar informações sobre a possibilidade de me aposentar, acabei sendo vítima do golpe do falso INSS ao clicar em uma propaganda digital que prometia a concessão do benefício pretendido mediante fornecimento de informações pessoais e pagamento de valores. Acredito que eu poderia ter evitado este golpe se tivesse encontrado um local seguro que me informasse sobre as leis que garantem meus direitos e indicasse instituições de apoio aos meus interesses.  
-
-
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160977969/194e0c75-c23a-4046-9fa6-05048711ada2)
-
-Meu nome é Alessandra, tenho 32 anos. Sou bancária e tenho uma rotina intensa de trabalho, por isto acabo tendo pouco tempo para auxiliar minha mãe em suas demandas cotidianas. Minha mãe recorre muito a mim para tirar dúvidas sobre o uso do computador, tablet e celular, uma vez que ela gosta de aprender sobre as funcionalidades destas tecnologias, mas possui baixa acuidade visual e, por isto, acaba tendo muita dificuldade em realizar pesquisas em meios eletrônicos sozinha. Seria muito valioso se eu encontrasse uma plataforma acessível com conteúdo esclaredor sobre inovações e tecnologia e que possua recursos inclusivos como lupa e ferramenta de leitura em voz alta, para que eu possa indicar para minha mãe fazer suas pesquisas com maior autonomia. 
-
-
-
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/781fef63-039b-4c7c-a9f6-68a8c833f13f)
-
-
-
-Meu nome é José Honorino, tenho 62 anos. Sou agricultor e moro na zona rural de Manga/MG, onde nasci e me criei. A conexão à internet chegou há bem pouco tempo aqui onde eu moro, e por isto meu acesso à informação acabou sendo muito limitado até então. Com o trabalho pesado no campo, acabei tendo pouco contato com aparelhos eletrônicos, mas agora com a chegada da internet, gostaria de adquirir um computador e encontrar um local com linguagem simples e imagens educativas que me ensinem a usar essas tecnologias e a resolver pequenos problemas que eu possa ter com o meu computador. 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/5e0557d1-3743-4a1e-83c5-e1ee7c103e18)
 
 ## Histórias de Usuários
 
