@@ -91,7 +91,8 @@ No "Clube do Saber", os usuários podem optar por selecionar o jogo "Palavras Cr
 
 Dentro de "Clube do Saber" o usuário terá a opção de selecionar o jogo "Passeio Tecnológico" (RF-008), sendo redirecionado para página contendo trilha de cinco perguntas com nível de dificuldade crescente. Ao clicar na forma geométrica referente à pergunta, surgirá um pop up contendo a pergunta e as opções que poderão ser selecionadas. Clicando na opção correta, o pop up adquirirá cor verde; se selecionada a opção incorreta, o pop adquirirá a cor vermelha e um botão com a opção de tentar novamente. 
 
-![introtec](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160187639/4fa11556-bc13-4156-9731-9f65a368e394)
+![Passeio Tecnológico](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/160979479/08ea0147-5e47-4288-9483-bafb124fb9a6)
+
 
 
 
