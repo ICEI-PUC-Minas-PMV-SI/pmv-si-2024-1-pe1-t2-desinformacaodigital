@@ -15,7 +15,7 @@ InfoClube
 
 ## Conjunto de Slides (Estrutura)
 
-
+* [InfoClube - Apresentação Final](https://github.com/user-attachments/files/15946605/projetoinfoclube.pdf)
  
 ## Vídeo de demonstração
 
