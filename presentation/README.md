@@ -5,7 +5,7 @@ Ao final, destacamos os objetivos do site, os problemas resolvidos, a nova ident
 
 
 * [InfoClube - Apresentação Final](./sample-presentation.pdf) 
-* [InfoClube - Vídeo de Demonstração](./sample-video.mp4) 
+* [InfoClube - Vídeo de Demonstração]( https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/a34c738c-9d3f-4c5d-ab6f-760cb4e2b9fb ) 
 
 ## Título do Projeto
 InfoClube
