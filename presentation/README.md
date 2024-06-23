@@ -4,7 +4,8 @@ Nesta seção, demonstramos o funcionamento do site InfoClube. Inicialmente, apr
 Ao final, destacamos os objetivos do site, os problemas resolvidos, a nova identidade visual e o funcionamento por meio de um vídeo.
 
 
-* [InfoClube - Apresentação Final](./sample-presentation.pdf) 
+* [InfoClube - Apresentação Final](https://github.com/user-attachments/files/15946605/projetoinfoclube.pdf)
+
 * [InfoClube - Vídeo de Demonstração]( https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t2-desinformacaodigital/assets/161775213/a34c738c-9d3f-4c5d-ab6f-760cb4e2b9fb ) 
 
 ## Título do Projeto
